@@ -1,1 +1,2 @@
-# awesome-bert
+#  This repository is to collect BERT related resources.
+
