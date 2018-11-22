@@ -2,7 +2,7 @@
 
 1.  hanxiao/bert-as-service,   https://github.com/hanxiao/bert-as-service,    Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model   
 
-2. google-research/bert, https://github.com/google-research/bert,  TensorFlow code and pre-trained models for BERT
+2. google-research/bert, https://github.com/google-research/bert,  **officical** TensorFlow code and pre-trained models for BERT
 
 3. codertimo/BERT-pytorch, https://github.com/codertimo/BERT-pytorch,   Google AI 2018 BERT pytorch implementation
 
