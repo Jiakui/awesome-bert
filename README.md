@@ -34,4 +34,12 @@ Abstract: We introduce a new language representation model called BERT, which st
 
 3. Y1ran/NLP-BERT--ChineseVersion,  https://github.com/Y1ran/NLP-BERT--ChineseVersion, this is the code copy from google's BERT model
 
+4. algteam/bert-examples, https://github.com/algteam/bert-examples
 
+## BERT  NER  task:  
+
+1. JamesGu14/BERT-NER-CLI, https://github.com/JamesGu14/BERT-NER-CLI, Bert NER command line tester with step by step setup guide
+
+2. zhpmatrix/bert-sequence-tagging, https://github.com/zhpmatrix/bert-sequence-tagging, 基于BERT的中文序列标注
+
+3. kyzhouhzau/BERT-NER, https://github.com/kyzhouhzau/BERT-NER, Use google BERT to do CoNLL-2003 NER !
