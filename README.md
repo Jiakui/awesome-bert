@@ -65,6 +65,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 2. maksna/bert-fine-tuning-for-chinese-multiclass-classification, https://github.com/maksna/bert-fine-tuning-for-chinese-multiclass-classification, use google pre-training model bert to fine-tuning for the chinese multiclass classification
 
+3. NLPScott/bert-Chinese-classification-task, https://github.com/NLPScott/bert-Chinese-classification-task, bert中文分类实践
+
 
 ## BERT  NER  task:  
 
