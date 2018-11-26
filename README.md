@@ -14,14 +14,14 @@ Abstract: We introduce a new language representation model called BERT, which st
 
 ## official implement:
 
-1. <span style="color:orange"> google-research/bert </span>, https://github.com/google-research/bert,  **officical** TensorFlow code and pre-trained models for BERT
+1. <span style="color:green"> google-research/bert </span>, https://github.com/google-research/bert,  **officical** TensorFlow code and pre-trained models for BERT
 
 
 ## implement of BERT besides tensorflow: 
 
 1. codertimo/BERT-pytorch, https://github.com/codertimo/BERT-pytorch,   Google AI 2018 BERT pytorch implementation
 
-2. <span style="color:orange">  huggingface/pytorch-pretrained-BERT </span>,  https://github.com/huggingface/pytorch-pretrained-BERT,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models
+2. <span style="color:green">  huggingface/pytorch-pretrained-BERT </span>,  https://github.com/huggingface/pytorch-pretrained-BERT,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models
 
 3. Separius/BERT-keras, https://github.com/Separius/BERT-keras, Keras implementation of BERT with pre-trained weights
 
@@ -32,7 +32,7 @@ Abstract: We introduce a new language representation model called BERT, which st
 6. guotong1988/BERT-tensorflow, https://github.com/guotong1988/BERT-tensorflow, BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 7. dreamgonfly/BERT-pytorch, https://github.com/dreamgonfly/BERT-pytorch, 
-PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" https://arxiv.org/abs/1810.04805
+PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" 
 
 
 ## other resources for BERT: 
@@ -76,5 +76,5 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 4. king-menin/ner-bert, https://github.com/king-menin/ner-bert, NER task solution (bert-Bi-LSTM-CRF) with google bert https://github.com/google-research.
 
-5. macanv/BERT-BiLSMT-CRF-NER, https://github.com/macanv/BERT-BiLSMT-CRF-NER, Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning https://github.com/macanv/BERT-BiLSMT…
+5. macanv/BERT-BiLSMT-CRF-NER, https://github.com/macanv/BERT-BiLSMT-CRF-NER, Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning 
 
