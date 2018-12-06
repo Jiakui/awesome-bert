@@ -23,7 +23,7 @@ Abstract: We introduce a new language representation model called BERT, which st
 
 2. ` huggingface/pytorch-pretrained-BERT ,  https://github.com/huggingface/pytorch-pretrained-BERT,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models  `  
 
-3. Separius/BERT-keras, https://github.com/Separius/BERT-keras, Keras implementation of BERT with pre-trained weights
+3. Separius/BERT-keras, https://github.com/Separius/BERT-keras, Keras implementation of BERT with pre-trained weights, [**325 stars**]
 
 4. soskek/bert-chainer,  https://github.com/soskek/bert-chainer,  Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
 
@@ -34,6 +34,12 @@ Abstract: We introduce a new language representation model called BERT, which st
 7. dreamgonfly/BERT-pytorch, https://github.com/dreamgonfly/BERT-pytorch, 
 PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" 
 
+8. CyberZHG/keras-bert, https://github.com/CyberZHG/keras-bert, Implementation of BERT that could load official pre-trained models for feature extraction and prediction
+
+9. soskek/bert-chainer, https://github.com/soskek/bert-chainer, Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+
+10. MaZhiyuanBUAA/bert-tf1.4.0, https://github.com/MaZhiyuanBUAA/bert-tf1.4.0, bert-tf1.4.0
+
 
 ## other resources for BERT: 
 
@@ -41,7 +47,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 2. brightmart/bert_language_understanding,  https://github.com/brightmart/bert_language_understanding, Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN
 
-3. Y1ran/NLP-BERT--ChineseVersion,  https://github.com/Y1ran/NLP-BERT--ChineseVersion, this is the code copy from google's BERT model
+3. Y1ran/NLP-BERT--ChineseVersion,  https://github.com/Y1ran/NLP-BERT--ChineseVersion, 谷歌自然语言处理模型BERT：论文解析与python代码
+, [**83 stars**]
 
 4. algteam/bert-examples, https://github.com/algteam/bert-examples
 
@@ -49,9 +56,22 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 6. yangbisheng2009/cn-bert, https://github.com/yangbisheng2009/cn-bert, BERT在中文NLP的应用
 
-7. CyberZHG/keras-bert, https://github.com/CyberZHG/keras-bert, Implementation of BERT that could load official pre-trained models for feature extraction and prediction
+7. JayYip/bert-multiple-gpu, https://github.com/JayYip/bert-multiple-gpu, A multiple GPU support version of BERT, [**8 stars**]
 
-8. soskek/bert-chainer, https://github.com/soskek/bert-chainer, Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+8. xu-song/bert_as_language_model, https://github.com/xu-song/bert_as_language_model, bert as language model, fork from https://github.com/google-research/bert, [**5 stars**]
+
+9. whqwill/seq2seq-keyphrase-bert, https://github.com/whqwill/seq2seq-keyphrase-bert, add BERT to encoder part for https://github.com/memray/seq2seq-keyphrase-pytorch
+
+10. HighCWu/keras-bert-tpu, https://github.com/HighCWu/keras-bert-tpu, Implementation of BERT that could load official pre-trained models for feature extraction and prediction on TPU
+
+11. Willyoung2017/Bert_Attempt, https://github.com/Willyoung2017/Bert_Attempt, 
+
+12. Pydataman/bert_examples, https://github.com/Pydataman/bert_examples, some examples of bert, run_classifier.py 是基于谷歌bert实现了Quora Insincere Questions Classification二分类比赛。run_ner.py是基于瑞金医院AI大赛 第一赛季数据和bert写的一个命名实体识别。
+
+13. guotong1988/BERT-chinese, https://github.com/guotong1988/BERT-chinese, BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 中文 汉语
+
+14. zhongyunuestc/bert_multitask, https://github.com/zhongyunuestc/bert_multitask, 多任务task
+
 
 
 ## BERT QA task:
@@ -62,6 +82,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 3. benywon/ChineseBert, https://github.com/benywon/ChineseBert, This is a chinese Bert model specific for question answering
 
+4. xzp27/BERT-for-Chinese-Question-Answering, https://github.com/xzp27/BERT-for-Chinese-Question-Answering, 
 
 ## BERT classification task:
 
@@ -69,9 +90,13 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 2. maksna/bert-fine-tuning-for-chinese-multiclass-classification, https://github.com/maksna/bert-fine-tuning-for-chinese-multiclass-classification, use google pre-training model bert to fine-tuning for the chinese multiclass classification
 
-3. NLPScott/bert-Chinese-classification-task, https://github.com/NLPScott/bert-Chinese-classification-task, bert中文分类实践
+3. NLPScott/bert-Chinese-classification-task, https://github.com/NLPScott/bert-Chinese-classification-task, bert中文分类实践, [**51 stars**]
 
-4. Socialbird-AILab/BERT-Classification-Tutorial, https://github.com/Socialbird-AILab/BERT-Classification-Tutorial, 
+4. Socialbird-AILab/BERT-Classification-Tutorial, https://github.com/Socialbird-AILab/BERT-Classification-Tutorial, [**151 stars**]
+
+5. fooSynaptic/BERT_classifer_trial, https://github.com/fooSynaptic/BERT_classifer_trial, BERT trial for chinese corpus classfication
+
+6. xiaopingzhong/bert-finetune-for-classfier, https://github.com/xiaopingzhong/bert-finetune-for-classfier, 微调BERT模型,同时构建自己的数据集实现分类
 
 
 ## BERT  NER  task:  
@@ -80,9 +105,22 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 2. zhpmatrix/bert-sequence-tagging, https://github.com/zhpmatrix/bert-sequence-tagging, 基于BERT的中文序列标注
 
-3. kyzhouhzau/BERT-NER, https://github.com/kyzhouhzau/BERT-NER, Use google BERT to do CoNLL-2003 NER !
+3. kyzhouhzau/BERT-NER, https://github.com/kyzhouhzau/BERT-NER, Use google BERT to do CoNLL-2003 NER !  [**120 stars**]
 
 4. king-menin/ner-bert, https://github.com/king-menin/ner-bert, NER task solution (bert-Bi-LSTM-CRF) with google bert https://github.com/google-research.
 
-5. macanv/BERT-BiLSMT-CRF-NER, https://github.com/macanv/BERT-BiLSMT-CRF-NER, Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning 
+5. macanv/BERT-BiLSMT-CRF-NER, https://github.com/macanv/BERT-BiLSMT-CRF-NER, Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning  , [**145 stars**]
+
+6. FuYanzhe2/Name-Entity-Recognition, https://github.com/FuYanzhe2/Name-Entity-Recognition, Lstm-crf,Lattice-CRF,bert-ner及近年ner相关论文follow, [**3 stars**]
+
+7. mhcao916/NER_Based_on_BERT, https://github.com/mhcao916/NER_Based_on_BERT, this project is based on google bert model, which is a Chinese NER
+
+8. ProHiryu/bert-chinese-ner, https://github.com/ProHiryu/bert-chinese-ner, 使用预训练语言模型BERT做中文NER
+
+
+
+## BERT  Knowledge Graph Task : 
+
+1. lvjianxin/Knowledge-extraction, https://github.com/lvjianxin/Knowledge-extraction, 基于中文的知识抽取，BaseLine：Bi-LSTM+CRF 升级版：Bert预训练
+
 
