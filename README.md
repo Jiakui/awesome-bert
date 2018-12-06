@@ -49,6 +49,10 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 6. yangbisheng2009/cn-bert, https://github.com/yangbisheng2009/cn-bert, BERT在中文NLP的应用
 
+7. CyberZHG/keras-bert, https://github.com/CyberZHG/keras-bert, Implementation of BERT that could load official pre-trained models for feature extraction and prediction
+
+8. soskek/bert-chainer, https://github.com/soskek/bert-chainer, Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+
 
 ## BERT QA task:
 
