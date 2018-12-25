@@ -83,11 +83,9 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 2. vliu15/BERT, https://github.com/vliu15/BERT, Tensorflow implementation of BERT for QA
 
-3. benywon/ChineseBert, https://github.com/benywon/ChineseBert, This is a chinese Bert model specific for question answering
+3. xzp27/BERT-for-Chinese-Question-Answering, https://github.com/xzp27/BERT-for-Chinese-Question-Answering, 
 
-4. xzp27/BERT-for-Chinese-Question-Answering, https://github.com/xzp27/BERT-for-Chinese-Question-Answering, 
-
-5. matthew-z/R-net, https://github.com/matthew-z/R-net, R-net in PyTorch, with BERT and ELMo, [**77 stars**]
+4. matthew-z/R-net, https://github.com/matthew-z/R-net, R-net in PyTorch, with BERT and ELMo, [**77 stars**]
 
 
 ## BERT classification task:
