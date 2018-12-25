@@ -14,14 +14,14 @@ Abstract: We introduce a new language representation model called BERT, which st
 
 ## official implement:
 
-1. ` google-research/bert  , https://github.com/google-research/bert,  **officical** TensorFlow code and pre-trained models for BERT `
+1.  google-research/bert  , https://github.com/google-research/bert,  **officical** TensorFlow code and pre-trained models for BERT , [**10053 stars**]
 
 
 ## implement of BERT besides tensorflow: 
 
 1. codertimo/BERT-pytorch, https://github.com/codertimo/BERT-pytorch,   Google AI 2018 BERT pytorch implementation
 
-2. ` huggingface/pytorch-pretrained-BERT ,  https://github.com/huggingface/pytorch-pretrained-BERT,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models  `  
+2. huggingface/pytorch-pretrained-BERT ,  https://github.com/huggingface/pytorch-pretrained-BERT,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models  , [**2422 stars**]
 
 3. Separius/BERT-keras, https://github.com/Separius/BERT-keras, Keras implementation of BERT with pre-trained weights, [**325 stars**]
 
