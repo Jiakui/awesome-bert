@@ -124,6 +124,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 9. sberbank-ai/ner-bert, https://github.com/sberbank-ai/ner-bert, BERT-NER (nert-bert) with google bert, [**22 stars**]
 
+## BERT Text Generation Task: 
+1. asyml/texar, https://github.com/asyml/texar, Toolkit for Text Generation and Beyond https://texar.io, Texar is a general-purpose text generation toolkit, has also implemented BERT here for classification, and text generation applications by combining with Texar's other modules.  [**892 stars**]
 
 ## BERT  Knowledge Graph Task : 
 
