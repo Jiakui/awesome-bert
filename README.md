@@ -131,6 +131,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 1. lvjianxin/Knowledge-extraction, https://github.com/lvjianxin/Knowledge-extraction, 基于中文的知识抽取，BaseLine：Bi-LSTM+CRF 升级版：Bert预训练
 
+2. sakuranew/BERT-AttributeExtraction, https://github.com/sakuranew/BERT-AttributeExtraction, USING BERT FOR Attribute Extraction in KnowledgeGraph. fine-tuning and feature extraction. 使用基于bert的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取。  [**10 stars**] 
+
 
 ## BERT  visualization toolkit: 
 1. jessevig/bertviz, https://github.com/jessevig/bertviz, Tool for visualizing BERT's attention, [**147 stars**]
