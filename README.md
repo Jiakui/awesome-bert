@@ -114,7 +114,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 4. king-menin/ner-bert, https://github.com/king-menin/ner-bert, NER task solution (bert-Bi-LSTM-CRF) with google bert https://github.com/google-research.
 
-5. macanv/BERT-BiLSMT-CRF-NER, https://github.com/macanv/BERT-BiLSMT-CRF-NER, Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning  , [**145 stars**]
+5. macanv/BERT-BiLSMT-CRF-NER, https://github.com/macanv/BERT-BiLSMT-CRF-NER, Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning  , [**349 stars**]
 
 6. FuYanzhe2/Name-Entity-Recognition, https://github.com/FuYanzhe2/Name-Entity-Recognition, Lstm-crf,Lattice-CRF,bert-ner及近年ner相关论文follow, [**11 stars**]
 
