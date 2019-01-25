@@ -20,30 +20,30 @@
 
 ## implement of BERT besides tensorflow: 
 
-1. codertimo/BERT-pytorch, https://github.com/codertimo/BERT-pytorch,   Google AI 2018 BERT pytorch implementation
+1. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch),   Google AI 2018 BERT pytorch implementation
 
-2. huggingface/pytorch-pretrained-BERT ,  https://github.com/huggingface/pytorch-pretrained-BERT,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models  , [**2422 stars**]
+2. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT),   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models  , [**2422 stars**]
 
-3. Separius/BERT-keras, https://github.com/Separius/BERT-keras, Keras implementation of BERT with pre-trained weights, [**325 stars**]
+3. [Separius/BERT-keras](https://github.com/Separius/BERT-keras), Keras implementation of BERT with pre-trained weights, [**325 stars**]
 
-4. soskek/bert-chainer,  https://github.com/soskek/bert-chainer,  Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+4. [soskek/bert-chainer](https://github.com/soskek/bert-chainer),  Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
 
-5. innodatalabs/tbert, https://github.com/innodatalabs/tbert, PyTorch port of BERT ML model
+5. [innodatalabs/tbert](https://github.com/innodatalabs/tbert), PyTorch port of BERT ML model
 
-6. guotong1988/BERT-tensorflow, https://github.com/guotong1988/BERT-tensorflow, BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+6. [guotong1988/BERT-tensorflow](https://github.com/guotong1988/BERT-tensorflow), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
-7. dreamgonfly/BERT-pytorch, https://github.com/dreamgonfly/BERT-pytorch, 
+7. [dreamgonfly/BERT-pytorch](https://github.com/dreamgonfly/BERT-pytorch), 
 PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" 
 
-8. CyberZHG/keras-bert, https://github.com/CyberZHG/keras-bert, Implementation of BERT that could load official pre-trained models for feature extraction and prediction
+8. [CyberZHG/keras-bert](https://github.com/CyberZHG/keras-bert), Implementation of BERT that could load official pre-trained models for feature extraction and prediction
 
-9. soskek/bert-chainer, https://github.com/soskek/bert-chainer, Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+9. [soskek/bert-chainer](https://github.com/soskek/bert-chainer), Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
 
-10. MaZhiyuanBUAA/bert-tf1.4.0, https://github.com/MaZhiyuanBUAA/bert-tf1.4.0, bert-tf1.4.0
+10. [MaZhiyuanBUAA/bert-tf1.4.0](https://github.com/MaZhiyuanBUAA/bert-tf1.4.0), bert-tf1.4.0
 
-11. dhlee347/pytorchic-bert, https://github.com/dhlee347/pytorchic-bert, Pytorch Implementation of Google BERT, [**106 stars**]
+11. [dhlee347/pytorchic-bert](https://github.com/dhlee347/pytorchic-bert), Pytorch Implementation of Google BERT, [**106 stars**]
 
-12. kpot/keras-transformer, https://github.com/kpot/keras-transformer, Keras library for building (Universal) Transformers, facilitating BERT and GPT models,  [**17 stars**]
+12. [kpot/keras-transformer](https://github.com/kpot/keras-transformer), Keras library for building (Universal) Transformers, facilitating BERT and GPT models,  [**17 stars**]
 
 ## other resources for BERT: 
 
