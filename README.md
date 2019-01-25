@@ -76,6 +76,9 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 16. bigboNed3/bert_serving, https://github.com/bigboNed3/bert_serving, export bert model for serving, [**10 stars**]
 
+17. yoheikikuta/bert-japanese, https://github.com/yoheikikuta/bert-japanese, BERT with SentencePiece for Japanese text.  [**92 stars**]
+
+
 ## BERT QA task:
 
 1. benywon/ChineseBert, https://github.com/benywon/ChineseBert, This is a chinese Bert model specific for question answering
@@ -85,6 +88,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 3. xzp27/BERT-for-Chinese-Question-Answering, https://github.com/xzp27/BERT-for-Chinese-Question-Answering, 
 
 4. matthew-z/R-net, https://github.com/matthew-z/R-net, R-net in PyTorch, with BERT and ELMo, [**77 stars**]
+
+5. nyu-dl/dl4marco-bert, https://github.com/nyu-dl/dl4marco-bert, Passage Re-ranking with BERT
 
 
 ## BERT classification task:
