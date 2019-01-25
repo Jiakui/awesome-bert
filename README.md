@@ -63,7 +63,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 5. [HighCWu/keras-bert-tpu](https://github.com/HighCWu/keras-bert-tpu), Implementation of BERT that could load official pre-trained models for feature extraction and prediction on TPU, [**6 stars**]
 
-6. [Willyoung2017/Bert_Attempt](https://github.com/Willyoung2017/Bert_Attempt), 
+6. [Willyoung2017/Bert_Attempt](https://github.com/Willyoung2017/Bert_Attempt), PyTorch Pretrained Bert, [**0 stars**]
 
 7. [Pydataman/bert_examples](https://github.com/Pydataman/bert_examples), some examples of bert, run_classifier.py 是基于谷歌bert实现了Quora Insincere Questions Classification二分类比赛。run_ner.py是基于瑞金医院AI大赛 第一赛季数据和bert写的一个命名实体识别。
 
