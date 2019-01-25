@@ -65,7 +65,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 6. [Willyoung2017/Bert_Attempt](https://github.com/Willyoung2017/Bert_Attempt), 
 
-7. [Pydataman/bert_examples](https://github.com/Pydataman/bert_examples, some examples of bert), run_classifier.py 是基于谷歌bert实现了Quora Insincere Questions Classification二分类比赛。run_ner.py是基于瑞金医院AI大赛 第一赛季数据和bert写的一个命名实体识别。
+7. [Pydataman/bert_examples](https://github.com/Pydataman/bert_examples), some examples of bert, run_classifier.py 是基于谷歌bert实现了Quora Insincere Questions Classification二分类比赛。run_ner.py是基于瑞金医院AI大赛 第一赛季数据和bert写的一个命名实体识别。
 
 8. [guotong1988/BERT-chinese](https://github.com/guotong1988/BERT-chinese), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 中文 汉语
 
