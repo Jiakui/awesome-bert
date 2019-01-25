@@ -166,6 +166,5 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 4. xu-song/bert_as_language_model, https://github.com/xu-song/bert_as_language_model, bert as language model, fork from https://github.com/google-research/bert, [**5 stars**]
 
-5. yuanxiaosc/Deep_dynamic_word_representation, https://github.com/yuanxiaosc/Deep_dynamic_word_representation, TensorFlow code and pre-trained models for deep dynamic word representation (DDWR). It combines the BERT model and ELMo's deep context word representation.
+5. [yuanxiaosc/Deep_dynamic_word_representation](https://github.com/yuanxiaosc/Deep_dynamic_word_representation), TensorFlow code and pre-trained models for deep dynamic word representation (DDWR). It combines the BERT model and ELMo's deep context word representation.
 
-1. [Separius/BERT-keras](https://github.com/Separius/BERT-keras) - Keras implementation of BERT with pre-trained weights.
