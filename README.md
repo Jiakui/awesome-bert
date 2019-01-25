@@ -11,6 +11,8 @@
 
 4. [arXiv:1901.02860](https://arxiv.org/abs/1901.02860), Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context,  Authors: Zihang Dai, Zhilin Yang, Yiming Yang, William W. Cohen, Jaime Carbonell, Quoc V. Le and Ruslan Salakhutdinov.
 
+5. [arXiv:1901.04085](https://arxiv.org/pdf/1901.04085.pdf), Passage Re-ranking with BERT, Authors: Rodrigo Nogueira, Kyunghyun Cho
+
 # Github Repositories: 
 
 ## official implement:
