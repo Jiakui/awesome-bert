@@ -2,18 +2,20 @@
 
 # Papers: 
 
-1. arXiv:1810.04805, https://arxiv.org/abs/1810.04805, BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+1. [arXiv:1810.04805](https://arxiv.org/abs/1810.04805), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 , Authors: Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 
-2. arXiv:1812.06705, https://arxiv.org/abs/1812.06705, Conditional BERT Contextual Augmentation, Authors: Xing Wu, Shangwen Lv, Liangjun Zang, Jizhong Han, Songlin Hu
+2. [arXiv:1812.06705](https://arxiv.org/abs/1812.06705), Conditional BERT Contextual Augmentation, Authors: Xing Wu, Shangwen Lv, Liangjun Zang, Jizhong Han, Songlin Hu
 
-3. arXiv:1812.03593, https://arxiv.org/pdf/1812.03593, SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering, Authors: Chenguang Zhu, Michael Zeng, Xuedong Huang
+3. [arXiv:1812.03593](https://arxiv.org/pdf/1812.03593), SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering, Authors: Chenguang Zhu, Michael Zeng, Xuedong Huang
+
+4. [arXiv:1901.02860](https://arxiv.org/abs/1901.02860), Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context,  Authors: Zihang Dai, Zhilin Yang, Yiming Yang, William W. Cohen, Jaime Carbonell, Quoc V. Le and Ruslan Salakhutdinov.
 
 # Github Repositories: 
 
 ## official implement:
 
-1.  google-research/bert  , https://github.com/google-research/bert,  **officical** TensorFlow code and pre-trained models for BERT , [**10053 stars**]
+1.  [google-research/bert](https://github.com/google-research/bert),  **officical** TensorFlow code and pre-trained models for BERT , [**10053 stars**]
 
 
 ## implement of BERT besides tensorflow: 
