@@ -13,6 +13,9 @@
 
 5. [arXiv:1901.04085](https://arxiv.org/pdf/1901.04085.pdf), Passage Re-ranking with BERT, Authors: Rodrigo Nogueira, Kyunghyun Cho
 
+6. [arXiv:1902.02671](https://arxiv.org/pdf/1902.02671.pdf), BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning, Authors: Asa Cooper Stickland, Iain Murray
+
+
 # Github Repositories: 
 
 ## official implement:
