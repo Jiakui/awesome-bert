@@ -114,7 +114,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 25. [policeme/chinese_bert_similarity](https://github.com/policeme/chinese_bert_similarity), bert chinese similarity
 
-
+26. [zhihu/cuBERT](https://github.com/zhihu/cuBERT), Fast implementation of BERT inference directly on NVIDIA (CUDA, CUBLAS) and Intel MKL
 
 ## BERT QA task:
 
@@ -199,7 +199,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 15. [lemonhu/NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch), PyTorch solution of NER task Using Google AI's pre-trained BERT model.
 
-16. [zhihu/cuBERT](https://github.com/zhihu/cuBERT), Fast implementation of BERT inference directly on NVIDIA (CUDA, CUBLAS) and Intel MKL
+
 
 
 
