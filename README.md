@@ -110,6 +110,10 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 23. [1234560o/Bert-model-code-interpretation](https://github.com/1234560o/Bert-model-code-interpretation), 解读tensorflow版本Bert中modeling.py数据流
 
+24. [cdathuraliya/bert-inference](https://github.com/cdathuraliya/bert-inference), A helper class for Google BERT (Devlin et al., 2018) to support online prediction and model pipelining. 
+
+25. [policeme/chinese_bert_similarity](https://github.com/policeme/chinese_bert_similarity), bert chinese similarity
+
 
 
 ## BERT QA task:
@@ -128,6 +132,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 7. [krishna-sharma19/SBU-QA](https://github.com/krishna-sharma19/SBU-QA), This repository uses pretrain BERT embeddings for transfer learning in QA domain, [**7 stars**]
 
+8. [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids), BertQA - Attention on Steroids
+ 
 
 
 ## BERT classification task:
@@ -158,6 +164,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 13. [lonePatient/BERT-chinese-text-classification-pytorch](https://github.com/lonePatient/BERT-chinese-text-classification-pytorch), This repo contains a PyTorch implementation of a pretrained BERT model for text classification., [**6 stars**]
 
+14. [lynnna-xu/bert_sa](https://github.com/lynnna-xu/bert_sa), bert sentiment analysis tensorflow serving with RESTful API
+ 
 
 ## BERT  NER  task:  
 
@@ -189,6 +197,10 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 14. [yanwii/ChineseNER](https://github.com/yanwii/ChineseNER), 基于Bi-GRU + CRF 的中文机构名、人名识别 中文实体识别, 支持google bert模型
 
+15. [lemonhu/NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch), PyTorch solution of NER task Using Google AI's pre-trained BERT model.
+
+16. [zhihu/cuBERT](https://github.com/zhihu/cuBERT), Fast implementation of BERT inference directly on NVIDIA (CUDA, CUBLAS) and Intel MKL
+
 
 
 ## BERT Text Generation Task: 
@@ -202,6 +214,9 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 3. [aditya-AI/Information-Retrieval-System-using-BERT](https://github.com/aditya-AI/Information-Retrieval-System-using-BERT),  [**7 stars**] 
 
+4. [jkszw2014/bert-kbqa-NLPCC2017](https://github.com/jkszw2014/bert-kbqa-NLPCC2017), A trial of kbqa based on bert for NLPCC2016/2017 Task 5 (基于BERT的中文知识库问答实践）
+
+
 ## BERT  visualization toolkit: 
 1. [jessevig/bertviz](https://github.com/jessevig/bertviz), Tool for visualizing BERT's attention, [**339 stars**]
 
@@ -212,6 +227,11 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 2. [GaoQ1/rasa_chatbot_cn](https://github.com/GaoQ1/rasa_chatbot_cn), 基于rasa-nlu和rasa-core 搭建的对话系统demo,  [**91 stars**]
 
 3. [GaoQ1/rasa-bert-finetune](https://github.com/GaoQ1/rasa-bert-finetune), 支持rasa-nlu 的bert finetune, [**5 stars**]
+
+4. [akikaaa/wxbot](https://github.com/akikaaa/wxbot), chatbot on wechat. qa ranking model is based on google bert
+
+5. [geodge831012/bert_robot](https://github.com/geodge831012/bert_robot), 用于智能助手回答问题的训练，基于BERT模型进行训练改造
+
 
 ## BERT language model and embedding: 
 
@@ -231,8 +251,11 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 8. [fennuDetudou/BERT_implement](https://github.com/fennuDetudou/BERT_implement), 使用BERT模型进行文本分类，相似句子判断，以及词性标注,  [**9 stars**]
 
-
 9. [whqwill/seq2seq-keyphrase-bert](https://github.com/whqwill/seq2seq-keyphrase-bert), add BERT to encoder part for https://github.com/memray/seq2seq-keyphrase-pytorch, [**30 stars**]
+
+10. [charles9n/bert-sklearn](https://github.com/charles9n/bert-sklearn), a sklearn wrapper for Google's BERT model, [**14 stars**]
+
+11. [allenai/allennlp-bert-qa-wrapper](https://github.com/allenai/allennlp-bert-qa-wrapper),  This is a simple wrapper on top of pretrained BERT based QA models from pytorch-pretrained-bert to make AllenNLP model archives, so that you can serve demos from AllenNLP.
 
 
 
