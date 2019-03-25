@@ -56,6 +56,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 15. [Rshcaroline/BERT_Pytorch_fastNLP](https://github.com/Rshcaroline/BERT_Pytorch_fastNLP), A PyTorch & fastNLP implementation of Google AI's BERT model.
 
+16. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK), LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE ,  [**716 stars**]
+
 
 
 ## other resources for BERT: 
