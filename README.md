@@ -204,7 +204,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 1. [nlpyang/BertSum](https://github.com/nlpyang/BertSum), Code for paper Fine-tune BERT for Extractive Summarization,  [**71 stars**]
 
-2. [santhoshkolloju/Abstractive-Summarization-With-Transfer-Learning](https://github.com/santhoshkolloju/Abstractive-Summarization-With-Transfer-Learning), Abstractive summarisation using Bert as encoder and Transformer Decoder,  [**71 stars**]
+2. [santhoshkolloju/Abstractive-Summarization-With-Transfer-Learning](https://github.com/santhoshkolloju/Abstractive-Summarization-With-Transfer-Learning), Abstractive summarisation using Bert as encoder and Transformer Decoder,  [**29 stars**]
 
 
 ## BERT Text Generation Task: 
