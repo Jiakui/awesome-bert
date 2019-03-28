@@ -56,7 +56,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 15. [Rshcaroline/BERT_Pytorch_fastNLP](https://github.com/Rshcaroline/BERT_Pytorch_fastNLP), A PyTorch & fastNLP implementation of Google AI's BERT model.
 
-16. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK), LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE ,  [**716 stars**]
+16. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK),  **LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE** ,  [**716 stars**]
 
 
 
@@ -200,7 +200,11 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 15. [lemonhu/NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch), PyTorch solution of NER task Using Google AI's pre-trained BERT model.
 
 
+## BERT Text Summarization Task: 
 
+1. [nlpyang/BertSum](https://github.com/nlpyang/BertSum), Code for paper Fine-tune BERT for Extractive Summarization,  [**71 stars**]
+
+2. [santhoshkolloju/Abstractive-Summarization-With-Transfer-Learning](https://github.com/santhoshkolloju/Abstractive-Summarization-With-Transfer-Learning), Abstractive summarisation using Bert as encoder and Transformer Decoder,  [**71 stars**]
 
 
 ## BERT Text Generation Task: 
