@@ -15,7 +15,7 @@
 
 6. [arXiv:1902.02671](https://arxiv.org/pdf/1902.02671.pdf), BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning, Authors: Asa Cooper Stickland, Iain Murray
 
-7. [arXiv:1904.02232](https://arxiv.org/abs/1904.02232), BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis, Authors: Hu Xu, Bing Liu, Lei Shu, Philip S. Yu, [code](https://github.com/howardhsu/BERT-for-RRC-ABSA)
+7. [arXiv:1904.02232](https://arxiv.org/abs/1904.02232), BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis, Authors: Hu Xu, Bing Liu, Lei Shu, Philip S. Yu, [[code](https://github.com/howardhsu/BERT-for-RRC-ABSA)]
 
 
 # Github Repositories: 
@@ -136,6 +136,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 8. [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids), BertQA - Attention on Steroids
  
+9. [howardhsu/BERT-for-RRC-ABSA](https://github.com/howardhsu/BERT-for-RRC-ABSA), code for our NAACL 2019 paper: "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis", [**22 stars**]
 
 
 ## BERT classification task:
@@ -211,6 +212,9 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 ## BERT Text Generation Task: 
 1. [asyml/texar](https://github.com/asyml/texar), Toolkit for Text Generation and Beyond https://texar.io, Texar is a general-purpose text generation toolkit, has also implemented BERT here for classification, and text generation applications by combining with Texar's other modules.  [**892 stars**]
+
+2. [voidful/BertGenerate](https://github.com/voidful/BertGenerate), Fine tuning bert for text generation, Bert 做 文本生成 的一些實驗
+
 
 ## BERT  Knowledge Graph Task : 
 
