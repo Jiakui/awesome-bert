@@ -15,6 +15,8 @@
 
 6. [arXiv:1902.02671](https://arxiv.org/pdf/1902.02671.pdf), BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning, Authors: Asa Cooper Stickland, Iain Murray
 
+7. [arXiv:1904.02232](https://arxiv.org/abs/1904.02232), BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis, Authors: Hu Xu, Bing Liu, Lei Shu, Philip S. Yu, [code](https://github.com/howardhsu/BERT-for-RRC-ABSA)
+
 
 # Github Repositories: 
 
