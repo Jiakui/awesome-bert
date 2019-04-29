@@ -99,7 +99,6 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 17. [brightmart/bert_customized](https://github.com/brightmart/bert_customized), bert with customized features, [**20 stars**]
 
-18. [yuanxiaosc/BERT_Paper_Chinese_Translation](https://github.com/yuanxiaosc/BERT_Paper_Chinese_Translation), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 论文的中文翻译。Chinese Translation! , [**5 stars**]
 
 19. [JayYip/bert-multitask-learning](https://github.com/JayYip/bert-multitask-learning), BERT for Multitask Learning,  [**29 stars**]
 
@@ -252,6 +251,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 4. [akikaaa/wxbot](https://github.com/akikaaa/wxbot), chatbot on wechat. qa ranking model is based on google bert
 
 5. [geodge831012/bert_robot](https://github.com/geodge831012/bert_robot), 用于智能助手回答问题的训练，基于BERT模型进行训练改造
+
+6. [yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification](https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification), This is the template code to use BERT for sequence lableing and text classification, in order to facilitate BERT for more tasks. Currently, the template code has included conll-2003 named entity identification, Snips Slot Filling and Intent Prediction.
 
 
 ## BERT language model and embedding: 
