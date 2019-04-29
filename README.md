@@ -116,7 +116,13 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 25. [policeme/chinese_bert_similarity](https://github.com/policeme/chinese_bert_similarity), bert chinese similarity
 
-26. [zhihu/cuBERT](https://github.com/zhihu/cuBERT), Fast implementation of BERT inference directly on NVIDIA (CUDA, CUBLAS) and Intel MKL
+
+## BERT Deploy Tricks:
+
+1. [zhihu/cuBERT](https://github.com/zhihu/cuBERT), Fast implementation of BERT inference directly on NVIDIA (CUDA, CUBLAS) and Intel MKL
+
+2. [xmxoxo/BERT-train2deploy](https://github.com/xmxoxo/BERT-train2deploy), Bert Model training and deploy, BERT模型从训练到部署  
+
 
 ## BERT QA & RC task:
 
@@ -225,6 +231,11 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 3. [aditya-AI/Information-Retrieval-System-using-BERT](https://github.com/aditya-AI/Information-Retrieval-System-using-BERT),  [**7 stars**] 
 
 4. [jkszw2014/bert-kbqa-NLPCC2017](https://github.com/jkszw2014/bert-kbqa-NLPCC2017), A trial of kbqa based on bert for NLPCC2016/2017 Task 5 (基于BERT的中文知识库问答实践）
+
+5. [yuanxiaosc/Schema-based-Knowledge-Extraction](https://github.com/yuanxiaosc/Schema-based-Knowledge-Extraction), Code for http://lic2019.ccf.org.cn/kg 信息抽取。使用基于 BERT 的实体抽取和关系抽取的端到端的联合模型。（将在比赛结束后，完善代码和使用说明）,  [**17 stars**] 
+
+6. [yuanxiaosc/Entity-Relation-Extraction](https://github.com/yuanxiaosc/Entity-Relation-Extraction),  Entity and Relation Extraction Based on TensorFlow. 基于TensorFlow的管道式实体及关系抽取，2019语言与智能技术竞赛信息抽取任务解决方案（比赛结束后完善代码）。Schema based Knowledge Extraction, SKE 2019 http://lic2019.ccf.org.cn,  [**23 stars**] 
+
 
 
 ## BERT  visualization toolkit: 
