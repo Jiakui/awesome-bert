@@ -115,6 +115,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 25. [policeme/chinese_bert_similarity](https://github.com/policeme/chinese_bert_similarity), bert chinese similarity
 
+26. [allenai/scibert](https://github.com/allenai/scibert), A BERT model for scientific text. https://arxiv.org/abs/1903.10676,  [**160 stars**]
 
 ## BERT Deploy Tricks:
 
