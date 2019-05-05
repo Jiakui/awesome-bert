@@ -310,8 +310,6 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 7. [guillaume-chevalier/ReuBERT](https://github.com/guillaume-chevalier/ReuBERT), A question-answering chatbot, simply.
 
-8. [geodge831012/bert_robot](https://github.com/geodge831012/bert_robot), 用于智能助手回答问题的训练，基于BERT模型进行训练改造
-
 
 ## BERT language model and embedding: 
 
