@@ -290,6 +290,13 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 7. [WenRichard/KBQA-BERT](https://github.com/WenRichard/KBQA-BERT), 基于知识图谱的问答系统，BERT做命名实体识别和句子相似度，分为online和outline模式，博客介绍 https://zhuanlan.zhihu.com/p/62946533  ,  [**35 stars**] 
 
 
+## BERT  Coreference Resolution 
+1. [ianycxu/RGCN-with-BERT](https://github.com/ianycxu/RGCN-with-BERT), Gated-Relational Graph Convolutional Networks (RGCN) with BERT for Coreference Resolution Task
+
+2. [isabellebouchard/BERT_for_GAP-coreference](https://github.com/isabellebouchard/BERT_for_GAP-coreference),  BERT finetuning for GAP unbiased pronoun resolution
+
+
+
 
 ## BERT  visualization toolkit: 
 1. [jessevig/bertviz](https://github.com/jessevig/bertviz), Tool for visualizing BERT's attention, [**339 stars**]
