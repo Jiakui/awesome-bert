@@ -203,7 +203,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 
 
-# BERT Sentiment Analysis
+## BERT Sentiment Analysis
 
 1. [Chung-I/Douban-Sentiment-Analysis](https://github.com/Chung-I/Douban-Sentiment-Analysis), Sentiment Analysis on Douban Movie Short Comments Dataset using BERT.
 
