@@ -60,6 +60,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 16. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK),  **LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE** ,  [**716 stars**]
 
+17. [nghuyong/ERNIE-Pytorch](https://github.com/nghuyong/ERNIE-Pytorch), ERNIE Pytorch Version, [**8 stars**]
 
 
 ## other resources for BERT: 
