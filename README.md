@@ -8,6 +8,10 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 1. [arXiv:1810.04805](https://arxiv.org/abs/1810.04805), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 , Authors: Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 
+<details>
+
+<summary><b> Click to see more </b></summary>
+
 2. [arXiv:1812.06705](https://arxiv.org/abs/1812.06705), Conditional BERT Contextual Augmentation, Authors: Xing Wu, Shangwen Lv, Liangjun Zang, Jizhong Han, Songlin Hu
 
 3. [arXiv:1812.03593](https://arxiv.org/pdf/1812.03593), SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering, Authors: Chenguang Zhu, Michael Zeng, Xuedong Huang
@@ -19,6 +23,10 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 6. [arXiv:1902.02671](https://arxiv.org/pdf/1902.02671.pdf), BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning, Authors: Asa Cooper Stickland, Iain Murray
 
 7. [arXiv:1904.02232](https://arxiv.org/abs/1904.02232), BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis, Authors: Hu Xu, Bing Liu, Lei Shu, Philip S. Yu, [[code](https://github.com/howardhsu/BERT-for-RRC-ABSA)]
+
+</details>
+
+
 
 
 # Github Repositories: 
