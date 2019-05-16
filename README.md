@@ -39,7 +39,7 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 ## implement of BERT besides tensorflow: 
 
 
-<details>
+
 
 1. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch),   Google AI 2018 BERT pytorch implementation
 
@@ -47,8 +47,10 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 
 16. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK),  **LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE** ,  [**716 stars**]
 
-<summary><b> Click to see more </b></summary>
 
+<details>
+ 
+<summary><b> Click to see more </b></summary>
 
 
 3. [Separius/BERT-keras](https://github.com/Separius/BERT-keras), Keras implementation of BERT with pre-trained weights, [**325 stars**]
