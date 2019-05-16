@@ -62,6 +62,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 17. [nghuyong/ERNIE-Pytorch](https://github.com/nghuyong/ERNIE-Pytorch), ERNIE Pytorch Version, [**8 stars**]
 
+18. [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc, [**1529 stars**] 
+
 
 ## other resources for BERT: 
 
