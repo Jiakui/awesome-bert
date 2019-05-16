@@ -1,6 +1,7 @@
 #  This repository is to collect BERT related resources.
 
-AD:  a repository for graph convolutional network at https://github.com/Jiakui/awesome-gcn (resources for graph convolutional networks  （图卷积神经网络相关资源）). 
+AD:  a repository for graph convolutional networks at https://github.com/Jiakui/awesome-gcn (resources for graph convolutional networks  （图卷积神经网络相关资源）). 
+
 
 # Papers: 
 
