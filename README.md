@@ -42,14 +42,17 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 
 
 
-1. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch),   Google AI 2018 BERT pytorch implementation
+1. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch),   Google AI 2018 BERT pytorch implementation,
+![](https://img.shields.io/github/stars/codertimo/BERT-pytorch.svg)
 
-2. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT),   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models  , [**2422 stars**]
+2. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT),   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models  ,
+![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
 
-16. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK),  **LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE** ,  [**716 stars**]
+16. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK),  **LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE** ,
+![](https://img.shields.io/github/stars/PaddlePaddle/LARK.svg)
 
-18. [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc, [**1529 stars**] 
-
+18. [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc ,
+![](https://img.shields.io/github/stars/dmlc/gluon-nlp.svg)
 
 <details>
  
