@@ -33,7 +33,8 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 
 ## official implement:
 
-1.  [google-research/bert](https://github.com/google-research/bert),  **officical** TensorFlow code and pre-trained models for BERT , [**10053 stars**]
+1.  [google-research/bert](https://github.com/google-research/bert),  **officical** TensorFlow code and pre-trained models for BERT ,
+![](https://img.shields.io/github/stars/google-research/bert.svg)
 
 
 ## implement of BERT besides tensorflow: 
