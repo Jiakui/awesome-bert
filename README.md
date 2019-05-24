@@ -267,37 +267,37 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 ## BERT classification task:
 
 1. [zhpmatrix/Kaggle-Quora-Insincere-Questions-Classification](https://github.com/zhpmatrix/Kaggle-Quora-Insincere-Questions-Classification), Kaggle新赛(baseline)-基于BERT的fine-tuning方案+基于tensor2tensor的Transformer Encoder方案
-![](https://img.shields.io/github/stars/google-research/bert.svg)
+![](https://img.shields.io/github/stars/zhpmatrix/Kaggle-Quora-Insincere-Questions-Classification.svg)
 
 2. [maksna/bert-fine-tuning-for-chinese-multiclass-classification](https://github.com/maksna/bert-fine-tuning-for-chinese-multiclass-classification), use google pre-training model bert to fine-tuning for the chinese multiclass classification
-![](https://img.shields.io/github/stars/google-research/bert.svg)
+![](https://img.shields.io/github/stars/maksna/bert-fine-tuning-for-chinese-multiclass-classification.svg)
 
 3. [NLPScott/bert-Chinese-classification-task](https://github.com/NLPScott/bert-Chinese-classification-task), bert中文分类实践, [**51 stars**]
-![](https://img.shields.io/github/stars/google-research/bert.svg)
+![](https://img.shields.io/github/stars/NLPScott/bert-Chinese-classification-task.svg)
 
 4. [Socialbird-AILab/BERT-Classification-Tutorial](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial), [**151 stars**]
-![](https://img.shields.io/github/stars/google-research/bert.svg)
+![](https://img.shields.io/github/stars/Socialbird-AILab/BERT-Classification-Tutorial.svg)
 
 5. [fooSynaptic/BERT_classifer_trial](https://github.com/fooSynaptic/BERT_classifer_trial), BERT trial for chinese corpus classfication
-![](https://img.shields.io/github/stars/google-research/bert.svg)
+![](https://img.shields.io/github/stars/fooSynaptic/BERT_classifer_trial.svg)
 
 6. [xiaopingzhong/bert-finetune-for-classfier](https://github.com/xiaopingzhong/bert-finetune-for-classfier), 微调BERT模型,同时构建自己的数据集实现分类
-![](https://img.shields.io/github/stars/google-research/bert.svg)
+![](https://img.shields.io/github/stars/xiaopingzhong/bert-finetune-for-classfier.svg)
 
 8. [pengming617/bert_classification](https://github.com/pengming617/bert_classification), 利用bert预训练的中文模型进行文本分类, [**15 stars**]
-![](https://img.shields.io/github/stars/google-research/bert.svg)
+![](https://img.shields.io/github/stars/pengming617/bert_classification.svg)
 
 9. [xieyufei1993/Bert-Pytorch-Chinese-TextClassification](https://github.com/xieyufei1993/Bert-Pytorch-Chinese-TextClassification), Pytorch Bert Finetune in Chinese Text Classification, [**7 stars**]
-![](https://img.shields.io/github/stars/google-research/bert.svg)
+![](https://img.shields.io/github/stars/xieyufei1993/Bert-Pytorch-Chinese-TextClassification.svg)
 
 10. [liyibo/text-classification-demos](https://github.com/liyibo/text-classification-demos), Neural models for Text Classification in Tensorflow, such as cnn, dpcnn, fasttext, bert ..., [**6 stars**]
-![](https://img.shields.io/github/stars/google-research/bert.svg)
+![](https://img.shields.io/github/stars/liyibo/text-classification-demos.svg)
 
 11. [circlePi/BERT_Chinese_Text_Class_By_pytorch](https://github.com/circlePi/BERT_Chinese_Text_Class_By_pytorch), A Pytorch implements of Chinese text class based on BERT_Pretrained_Model, [**3 stars**]
-![](https://img.shields.io/github/stars/google-research/bert.svg)
+![](https://img.shields.io/github/stars/circlePi/BERT_Chinese_Text_Class_By_pytorch.svg)
 
 12. [kaushaltrivedi/bert-toxic-comments-multilabel](https://github.com/kaushaltrivedi/bert-toxic-comments-multilabel), Multilabel classification for Toxic comments challenge using Bert, [**45 stars**]
-![](https://img.shields.io/github/stars/google-research/bert.svg)
+![](https://img.shields.io/github/stars/kaushaltrivedi/bert-toxic-comments-multilabel.svg)
 
 13. [lonePatient/BERT-chinese-text-classification-pytorch](https://github.com/lonePatient/BERT-chinese-text-classification-pytorch), This repo contains a PyTorch implementation of a pretrained BERT model for text classification., [**6 stars**]
 ![](https://img.shields.io/github/stars/google-research/bert.svg)
