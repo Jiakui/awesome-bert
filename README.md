@@ -110,65 +110,86 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 ## other resources for BERT: 
 
-1. [brightmart/bert_language_understanding](https://github.com/brightmart/bert_language_understanding), Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN, [**503 stars**]
-
+1. [brightmart/bert_language_understanding](https://github.com/brightmart/bert_language_understanding), Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN, 
+![](https://img.shields.io/github/starsbrightmart/bert_language_understanding.svg)
 
 <details>
  
 <summary><b> Click to see more </b></summary>
 
-2. [Y1ran/NLP-BERT--ChineseVersion](https://github.com/Y1ran/NLP-BERT--ChineseVersion), 谷歌自然语言处理模型BERT：论文解析与python代码
-, [**83 stars**]
+2. [Y1ran/NLP-BERT--ChineseVersion](https://github.com/Y1ran/NLP-BERT--ChineseVersion), 谷歌自然语言处理模型BERT：论文解析与python代码,
+![](https://img.shields.io/github/stars/Y1ran/NLP-BERT--ChineseVersion.svg)
 
 9. [yangbisheng2009/cn-bert](https://github.com/yangbisheng2009/cn-bert), BERT在中文NLP的应用, 语法检查
+![](https://img.shields.io/github/stars/yangbisheng2009/cn-bert.svg)
 
-4. [JayYip/bert-multiple-gpu](https://github.com/JayYip/bert-multiple-gpu), A multiple GPU support version of BERT, [**16 stars**]
+4. [JayYip/bert-multiple-gpu](https://github.com/JayYip/bert-multiple-gpu), A multiple GPU support version of BERT,
+![](https://img.shields.io/github/stars/JayYip/bert-multiple-gpu.svg)
 
-5. [HighCWu/keras-bert-tpu](https://github.com/HighCWu/keras-bert-tpu), Implementation of BERT that could load official pre-trained models for feature extraction and prediction on TPU, [**6 stars**]
+5. [HighCWu/keras-bert-tpu](https://github.com/HighCWu/keras-bert-tpu), Implementation of BERT that could load official pre-trained models for feature extraction and prediction on TPU, 
+![](https://img.shields.io/github/stars/HighCWu/keras-bert-tpu.svg)
 
-6. [Willyoung2017/Bert_Attempt](https://github.com/Willyoung2017/Bert_Attempt), PyTorch Pretrained Bert, [**0 stars**]
+6. [Willyoung2017/Bert_Attempt](https://github.com/Willyoung2017/Bert_Attempt), PyTorch Pretrained Bert,
+![](https://img.shields.io/github/stars/Willyoung2017/Bert_Attempt.svg)
 
 7. [Pydataman/bert_examples](https://github.com/Pydataman/bert_examples), some examples of bert, run_classifier.py 是基于谷歌bert实现了Quora Insincere Questions Classification二分类比赛。run_ner.py是基于瑞金医院AI大赛 第一赛季数据和bert写的一个命名实体识别。
+![](https://img.shields.io/github/stars/Pydataman/bert_examples.svg)
 
 8. [guotong1988/BERT-chinese](https://github.com/guotong1988/BERT-chinese), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 中文 汉语
+![](https://img.shields.io/github/stars/guotong1988/BERT-chinese.svg)
 
 9. [zhongyunuestc/bert_multitask](https://github.com/zhongyunuestc/bert_multitask), 多任务task
+![](https://img.shields.io/github/stars/zhongyunuestc/bert_multitask.svg)
 
-10. [Microsoft/AzureML-BERT](https://github.com/Microsoft/AzureML-BERT), End-to-end walk through for fine-tuning BERT using Azure Machine Learning ,  [**14 stars**]
+10. [Microsoft/AzureML-BERT](https://github.com/Microsoft/AzureML-BERT), End-to-end walk through for fine-tuning BERT using Azure Machine Learning , 
+![](https://img.shields.io/github/stars/Microsoft/AzureML-BERT.svg)
 
-11. [bigboNed3/bert_serving](https://github.com/bigboNed3/bert_serving), export bert model for serving, [**10 stars**]
+11. [bigboNed3/bert_serving](https://github.com/bigboNed3/bert_serving), export bert model for serving, 
+![](https://img.shields.io/github/stars/nghuyong/ERNIE-Pytorch.svg)
 
-12. [yoheikikuta/bert-japanese](https://github.com/yoheikikuta/bert-japanese), BERT with SentencePiece for Japanese text.  [**135 stars**]
+12. [yoheikikuta/bert-japanese](https://github.com/yoheikikuta/bert-japanese), BERT with SentencePiece for Japanese text. 
+![](https://img.shields.io/github/stars/bigboNed3/bert_serving.svg)
 
-13. [whqwill/seq2seq-keyphrase-bert](https://github.com/whqwill/seq2seq-keyphrase-bert), add BERT to encoder part for https://github.com/memray/seq2seq-keyphrase-pytorch, [**19 stars**]
+13. [whqwill/seq2seq-keyphrase-bert](https://github.com/whqwill/seq2seq-keyphrase-bert), add BERT to encoder part for https://github.com/memray/seq2seq-keyphrase-pytorch,
+![](https://img.shields.io/github/stars/whqwill/seq2seq-keyphrase-bert.svg)
 
-14. [algteam/bert-examples](https://github.com/algteam/bert-examples), bert-demo,  [**9 stars**]
+14. [algteam/bert-examples](https://github.com/algteam/bert-examples), bert-demo, 
+![](https://img.shields.io/github/stars/algteam/bert-examples.svg)
 
-15. [cedrickchee/awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp), A curated list of NLP resources focused on BERT, attention mechanism, Transformer networks, and transfer learning.  [**9 stars**]
+15. [cedrickchee/awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp), A curated list of NLP resources focused on BERT, attention mechanism, Transformer networks, and transfer learning. 
+![](https://img.shields.io/github/stars/cedrickchee/awesome-bert-nlp.svg)
 
-16. [cnfive/cnbert](https://github.com/cnfive/cnbert), 中文注释一下bert代码功能, [**5 stars**]
+16. [cnfive/cnbert](https://github.com/cnfive/cnbert), 中文注释一下bert代码功能, 
+![](https://img.shields.io/github/stars/cnfive/cnbert.svg)
 
-17. [brightmart/bert_customized](https://github.com/brightmart/bert_customized), bert with customized features, [**20 stars**]
+17. [brightmart/bert_customized](https://github.com/brightmart/bert_customized), bert with customized features,
+![](https://img.shields.io/github/stars/brightmart/bert_customized.svg)
 
 
-19. [JayYip/bert-multitask-learning](https://github.com/JayYip/bert-multitask-learning), BERT for Multitask Learning,  [**29 stars**]
+19. [JayYip/bert-multitask-learning](https://github.com/JayYip/bert-multitask-learning), BERT for Multitask Learning, 
+![](https://img.shields.io/github/stars/JayYip/bert-multitask-learning.svg)
 
-20. [yuanxiaosc/BERT_Paper_Chinese_Translation](https://github.com/yuanxiaosc/BERT_Paper_Chinese_Translation), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 论文的中文翻译。Chinese Translation! https://yuanxiaosc.github.io/2018/12/…
-,  [**16 stars**]
+20. [yuanxiaosc/BERT_Paper_Chinese_Translation](https://github.com/yuanxiaosc/BERT_Paper_Chinese_Translation), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 论文的中文翻译。Chinese Translation! https://yuanxiaosc.github.io/2018/12/…, 
+![](https://img.shields.io/github/stars/yuanxiaosc/BERT_Paper_Chinese_Translation.svg)
 
-21. [yaserkl/BERTvsULMFIT](https://github.com/yaserkl/BERTvsULMFIT), Comparing Text Classification results using BERT embedding and ULMFIT embedding,  [**32 stars**]
+21. [yaserkl/BERTvsULMFIT](https://github.com/yaserkl/BERTvsULMFIT), Comparing Text Classification results using BERT embedding and ULMFIT embedding,
+![](https://img.shields.io/github/stars/yaserkl/BERTvsULMFIT.svg)
 
-22. [kpot/keras-transformer](https://github.com/kpot/keras-transformer), Keras library for building (Universal) Transformers, facilitating BERT and GPT models,  [**86 stars**]
+22. [kpot/keras-transformer](https://github.com/kpot/keras-transformer), Keras library for building (Universal) Transformers, facilitating BERT and GPT models, 
+![](https://img.shields.io/github/stars/kpot/keras-transformer.svg)
 
 23. [1234560o/Bert-model-code-interpretation](https://github.com/1234560o/Bert-model-code-interpretation), 解读tensorflow版本Bert中modeling.py数据流
+![](https://img.shields.io/github/stars/1234560o/Bert-model-code-interpretation.svg)
 
 24. [cdathuraliya/bert-inference](https://github.com/cdathuraliya/bert-inference), A helper class for Google BERT (Devlin et al., 2018) to support online prediction and model pipelining. 
+![](https://img.shields.io/github/stars/cdathuraliya/bert-inference.svg)
 
 
 26. [gameofdimension/java-bert-predict](https://github.com/gameofdimension/java-bert-predict), turn bert pretrain checkpoint into saved model for a feature extracting demo in java
+![](https://img.shields.io/github/stars/gameofdimension/java-bert-predict.svg)
 
 27. [1234560o/Bert-model-code-interpretation](https://github.com/1234560o/Bert-model-code-interpretation), 解读tensorflow版本Bert中modeling.py数据流
-
+![](https://img.shields.io/github/stars/1234560o/Bert-model-code-interpretation.svg)
 
 </details>
 
