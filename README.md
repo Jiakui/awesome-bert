@@ -107,7 +107,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 
 ## improvement over BERT:
-17. [thunlp/ERNIE](https://github.com/https://github.com/thunlp/ERNIE), Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities", imporove bert with heterogeneous information fusion. 
+1. [thunlp/ERNIE](https://github.com/https://github.com/thunlp/ERNIE), Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities", imporove bert with heterogeneous information fusion. 
 ![](https://img.shields.io/github/stars/thunlp/ERNIE.svg)
 
 
