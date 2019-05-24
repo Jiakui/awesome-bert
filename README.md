@@ -106,6 +106,9 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 </details>
 
 
+## improvement over BERT:
+17. [thunlp/ERNIE](https://github.com/https://github.com/thunlp/ERNIE), Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities", imporove bert with heterogeneous information fusion. 
+![](https://img.shields.io/github/stars/thunlp/ERNIE.svg)
 
 
 ## other resources for BERT: 
@@ -195,7 +198,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 </details>
 
 
-## Domain Specific Bert: 
+## domain specific BERT: 
 
 1. [allenai/scibert](https://github.com/allenai/scibert), A BERT model for scientific text. https://arxiv.org/abs/1903.10676,
 ![](https://img.shields.io/github/stars/allenai/scibert.svg)
