@@ -230,7 +230,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 ![](https://img.shields.io/github/stars/nyu-dl/dl4marco-bert.svg)
 
 5. [xzp27/BERT-for-Chinese-Question-Answering](https://github.com/xzp27/BERT-for-Chinese-Question-Answering), 
-![](https://img.shields.io/github/xzp27/BERT-for-Chinese-Question-Answering.svg)
+![](https://img.shields.io/github/stars/xzp27/BERT-for-Chinese-Question-Answering.svg)
 
 6. [chiayewken/bert-qa](https://github.com/chiayewken/bert-qa), BERT for question answering starting with HotpotQA,
 ![](https://img.shields.io/github/stars/chiayewken/bert-qa.svg)
@@ -272,7 +272,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 3. [NLPScott/bert-Chinese-classification-task](https://github.com/NLPScott/bert-Chinese-classification-task), bert中文分类实践,
 ![](https://img.shields.io/github/stars/NLPScott/bert-Chinese-classification-task.svg)
 
-4. [Socialbird-AILab/BERT-Classification-Tutorial](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial), [**151 stars**]
+4. [Socialbird-AILab/BERT-Classification-Tutorial](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial),
 ![](https://img.shields.io/github/stars/Socialbird-AILab/BERT-Classification-Tutorial.svg)
 
 5. [fooSynaptic/BERT_classifer_trial](https://github.com/fooSynaptic/BERT_classifer_trial), BERT trial for chinese corpus classfication
