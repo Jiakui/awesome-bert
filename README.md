@@ -229,7 +229,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 4. [nyu-dl/dl4marco-bert](https://github.com/nyu-dl/dl4marco-bert), Passage Re-ranking with BERT,
 ![](https://img.shields.io/github/stars/nyu-dl/dl4marco-bert.svg)
 
-5. [xzp27/BERT-for-Chinese-Question-Answering](https://github.com/xzp27/BERT-for-Chinese-Question-Answering),
+5. [xzp27/BERT-for-Chinese-Question-Answering](https://github.com/xzp27/BERT-for-Chinese-Question-Answering), 
 ![](https://img.shields.io/github/xzp27/BERT-for-Chinese-Question-Answering.svg)
 
 6. [chiayewken/bert-qa](https://github.com/chiayewken/bert-qa), BERT for question answering starting with HotpotQA,
@@ -323,9 +323,6 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 
 ## BERT  NER  task:  
-
-1. [JamesGu14/BERT-NER-CLI](https://github.com/JamesGu14/BERT-NER-CLI), Bert NER command line tester with step by step setup guide,
-![](https://img.shields.io/github/stars/JamesGu14/BERT-NER-CLI.svg)
 
 2. [zhpmatrix/bert-sequence-tagging](https://github.com/zhpmatrix/bert-sequence-tagging), 基于BERT的中文序列标注
 ![](https://img.shields.io/github/stars/zhpmatrix/bert-sequence-tagging.svg)
@@ -445,9 +442,6 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 3. [GaoQ1/rasa-bert-finetune](https://github.com/GaoQ1/rasa-bert-finetune), 支持rasa-nlu 的bert finetune,
 ![](https://img.shields.io/github/stars/GaoQ1/rasa-bert-finetune.svg)
-
-4. [akikaaa/wxbot](https://github.com/akikaaa/wxbot), chatbot on wechat. qa ranking model is based on google bert
-![](https://img.shields.io/github/stars/akikaaa/wxbot.svg)
 
 5. [geodge831012/bert_robot](https://github.com/geodge831012/bert_robot), 用于智能助手回答问题的训练，基于BERT模型进行训练改造
 ![](https://img.shields.io/github/stars/geodge831012/bert_robot.svg)
