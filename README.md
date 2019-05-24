@@ -59,40 +59,49 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 <summary><b> Click to see more </b></summary>
 
 
-3. [Separius/BERT-keras](https://github.com/Separius/BERT-keras), Keras implementation of BERT with pre-trained weights, [**325 stars**]
+3. [Separius/BERT-keras](https://github.com/Separius/BERT-keras), Keras implementation of BERT with pre-trained weights, 
+![](https://img.shields.io/github/stars/Separius/BERT-keras.svg)
 
-4. [soskek/bert-chainer](https://github.com/soskek/bert-chainer),  Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding", [**130 stars**]
+4. [soskek/bert-chainer](https://github.com/soskek/bert-chainer),  Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+![](https://img.shields.io/github/stars/soskek/bert-chainer.svg)
 
 5. [innodatalabs/tbert](https://github.com/innodatalabs/tbert), PyTorch port of BERT ML model
+![](https://img.shields.io/github/stars/innodatalabs/tbert.svg)
 
 6. [guotong1988/BERT-tensorflow](https://github.com/guotong1988/BERT-tensorflow), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+![](https://img.shields.io/github/stars/guotong1988/BERT-tensorflow.svg)
 
 7. [dreamgonfly/BERT-pytorch](https://github.com/dreamgonfly/BERT-pytorch), 
 PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" 
+![](https://img.shields.io/github/stars/dreamgonfly/BERT-pytorch.svg)
 
 8. [CyberZHG/keras-bert](https://github.com/CyberZHG/keras-bert), Implementation of BERT that could load official pre-trained models for feature extraction and prediction
+![](https://img.shields.io/github/stars/CyberZHG/keras-bert.svg)
 
 9. [soskek/bert-chainer](https://github.com/soskek/bert-chainer), Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+![](https://img.shields.io/github/stars/soskek/bert-chainer.svg)
 
 10. [MaZhiyuanBUAA/bert-tf1.4.0](https://github.com/MaZhiyuanBUAA/bert-tf1.4.0), bert-tf1.4.0
+![](https://img.shields.io/github/stars/MaZhiyuanBUAA/bert-tf1.4.0.svg)
 
 11. [dhlee347/pytorchic-bert](https://github.com/dhlee347/pytorchic-bert), Pytorch Implementation of Google BERT, [**138 stars**]
+![](https://img.shields.io/github/stars/dhlee347/pytorchic-bert.svg)
 
 12. [kpot/keras-transformer](https://github.com/kpot/keras-transformer), Keras library for building (Universal) Transformers, facilitating BERT and GPT models,  [**17 stars**]
+![](https://img.shields.io/github/stars/kpot/keras-transformer.svg)
 
 13. [miroozyx/BERT_with_keras](https://github.com/miroozyx/BERT_with_keras), A Keras version of Google's BERT model,  [**5 stars**]
+![](https://img.shields.io/github/stars/miroozyx/BERT_with_keras.svg)
 
 14. [conda-forge/pytorch-pretrained-bert-feedstock](https://github.com/conda-forge/pytorch-pretrained-bert-feedstock), A conda-smithy repository for pytorch-pretrained-bert. ,  [**0 stars**]
+![](https://img.shields.io/github/stars/conda-forge/pytorch-pretrained-bert-feedstock.svg)
+
 
 15. [Rshcaroline/BERT_Pytorch_fastNLP](https://github.com/Rshcaroline/BERT_Pytorch_fastNLP), A PyTorch & fastNLP implementation of Google AI's BERT model.
-
-
+![](https://img.shields.io/github/stars/Rshcaroline/BERT_Pytorch_fastNLP.svg)
 
 17. [nghuyong/ERNIE-Pytorch](https://github.com/nghuyong/ERNIE-Pytorch), ERNIE Pytorch Version, [**8 stars**]
-
-
-
-
+![](https://img.shields.io/github/stars/nghuyong/ERNIE-Pytorch.svg)
 
 </details>
 
