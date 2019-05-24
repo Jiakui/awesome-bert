@@ -84,23 +84,23 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 10. [MaZhiyuanBUAA/bert-tf1.4.0](https://github.com/MaZhiyuanBUAA/bert-tf1.4.0), bert-tf1.4.0
 ![](https://img.shields.io/github/stars/MaZhiyuanBUAA/bert-tf1.4.0.svg)
 
-11. [dhlee347/pytorchic-bert](https://github.com/dhlee347/pytorchic-bert), Pytorch Implementation of Google BERT, [**138 stars**]
+11. [dhlee347/pytorchic-bert](https://github.com/dhlee347/pytorchic-bert), Pytorch Implementation of Google BERT,
 ![](https://img.shields.io/github/stars/dhlee347/pytorchic-bert.svg)
 
-12. [kpot/keras-transformer](https://github.com/kpot/keras-transformer), Keras library for building (Universal) Transformers, facilitating BERT and GPT models,  [**17 stars**]
+12. [kpot/keras-transformer](https://github.com/kpot/keras-transformer), Keras library for building (Universal) Transformers, facilitating BERT and GPT models,
 ![](https://img.shields.io/github/stars/kpot/keras-transformer.svg)
 
-13. [miroozyx/BERT_with_keras](https://github.com/miroozyx/BERT_with_keras), A Keras version of Google's BERT model,  [**5 stars**]
+13. [miroozyx/BERT_with_keras](https://github.com/miroozyx/BERT_with_keras), A Keras version of Google's BERT model,
 ![](https://img.shields.io/github/stars/miroozyx/BERT_with_keras.svg)
 
-14. [conda-forge/pytorch-pretrained-bert-feedstock](https://github.com/conda-forge/pytorch-pretrained-bert-feedstock), A conda-smithy repository for pytorch-pretrained-bert. ,  [**0 stars**]
+14. [conda-forge/pytorch-pretrained-bert-feedstock](https://github.com/conda-forge/pytorch-pretrained-bert-feedstock), A conda-smithy repository for pytorch-pretrained-bert. ,
 ![](https://img.shields.io/github/stars/conda-forge/pytorch-pretrained-bert-feedstock.svg)
 
 
 15. [Rshcaroline/BERT_Pytorch_fastNLP](https://github.com/Rshcaroline/BERT_Pytorch_fastNLP), A PyTorch & fastNLP implementation of Google AI's BERT model.
 ![](https://img.shields.io/github/stars/Rshcaroline/BERT_Pytorch_fastNLP.svg)
 
-17. [nghuyong/ERNIE-Pytorch](https://github.com/nghuyong/ERNIE-Pytorch), ERNIE Pytorch Version, [**8 stars**]
+17. [nghuyong/ERNIE-Pytorch](https://github.com/nghuyong/ERNIE-Pytorch), ERNIE Pytorch Version,
 ![](https://img.shields.io/github/stars/nghuyong/ERNIE-Pytorch.svg)
 
 </details>
