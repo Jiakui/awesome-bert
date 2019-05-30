@@ -223,6 +223,10 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 ## BERT QA & RC task:
 
+1. [sogou/SMRCToolkit](https://github.com/sogou/SMRCToolkit), This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes., 
+![](https://img.shields.io/github/stars/sogou/SMRCToolkit.svg)
+
+
 1. [benywon/ChineseBert](https://github.com/benywon/ChineseBert), This is a chinese Bert model specific for question answering,
 ![](https://img.shields.io/github/stars/benywon/ChineseBert.svg)
 
