@@ -1,4 +1,4 @@
-#  This repository is to collect BERT related resources.  <span style="color:green"> Green colored text is for newly added resources this month.  </span> 
+#  This repository is to collect BERT related resources. 
 
 AD:  a repository for graph convolutional networks at https://github.com/Jiakui/awesome-gcn (resources for graph convolutional networks  （图卷积神经网络相关资源）). 
 
@@ -54,7 +54,7 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 18. [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc,
 ![](https://img.shields.io/github/stars/dmlc/gluon-nlp.svg)
 
-19. [dbiir/UER-py](https://github.com/dbiir/UER-py),  <span style="color:green"> UER-py is a toolkit for pre-training on general-domain corpus and fine-tuning on downstream task. UER-py maintains model modularity and supports research extensibility. It facilitates the use of different pre-training models (e.g. BERT), and provides interfaces for users to further extend upon. </span> 
+19. [dbiir/UER-py](https://github.com/dbiir/UER-py),  UER-py is a toolkit for pre-training on general-domain corpus and fine-tuning on downstream task. UER-py maintains model modularity and supports research extensibility. It facilitates the use of different pre-training models (e.g. BERT), and provides interfaces for users to further extend upon.  
 ![](https://img.shields.io/github/stars/dbiir/UER-py.svg)
 
 <details>
