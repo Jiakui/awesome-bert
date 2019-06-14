@@ -54,6 +54,9 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 18. [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc,
 ![](https://img.shields.io/github/stars/dmlc/gluon-nlp.svg)
 
+19. [dbiir/UER-py](https://github.com/dbiir/UER-py),  UER-py is a toolkit for pre-training on general-domain corpus and fine-tuning on downstream task. UER-py maintains model modularity and supports research extensibility. It facilitates the use of different pre-training models (e.g. BERT), and provides interfaces for users to further extend upon.
+![](https://img.shields.io/github/stars/dmlc/gluon-nlp.svg)
+
 <details>
  
 <summary><b> Click to see more </b></summary>
