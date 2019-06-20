@@ -115,18 +115,19 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 2. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK),  LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE, 
 ![](https://img.shields.io/github/stars/PaddlePaddle/LARK.svg)
 
-3. [ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm), Pre-Training with Whole Word Masking for Chinese BERT https://arxiv.org/abs/1906.08101,  
+```diff
++ 3. [ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm), Pre-Training with Whole Word Masking for Chinese BERT  https://arxiv.org/abs/1906.08101,  
 ![](https://img.shields.io/github/stars/ymcui/Chinese-BERT-wwm.svg)
 
-4. [zihangdai/xlnet](https://github.com/zihangdai/xlnet), XLNet: Generalized Autoregressive Pretraining for Language Understanding, 
++ 4. [zihangdai/xlnet](https://github.com/zihangdai/xlnet), XLNet: Generalized Autoregressive Pretraining for Language Understanding, 
 ![](https://img.shields.io/github/stars/zihangdai/xlnet.svg)
 
-5. [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl), Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context, This repository contains the code in both PyTorch and TensorFlow for our paper. 
++ 5. [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl), Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context, This repository contains the code in both PyTorch and TensorFlow for our paper. 
 ![](https://img.shields.io/github/stars/kimiyoung/transformer-xl.svg)
 
-6. [GaoPeng97/transformer-xl-chinese](https://github.com/GaoPeng97/transformer-xl-chinese), transformer xl在中文文本生成上的尝试。（transformer xl for text generation of chinese）, 
++ 6. [GaoPeng97/transformer-xl-chinese](https://github.com/GaoPeng97/transformer-xl-chinese), transformer xl在中文文本生成上的尝试。（transformer xl for text generation of chinese）, 
 ![](https://img.shields.io/github/stars/GaoPeng97/transformer-xl-chinese.svg)
-
+```
 
 
 ## other resources for BERT: 
