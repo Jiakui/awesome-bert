@@ -48,8 +48,7 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 2. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT),   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
 ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
 
-16. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK),  **LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE**, 
-![](https://img.shields.io/github/stars/PaddlePaddle/LARK.svg)
+
 
 18. [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc,
 ![](https://img.shields.io/github/stars/dmlc/gluon-nlp.svg)
@@ -112,6 +111,22 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 ## improvement over BERT:
 1. [thunlp/ERNIE](https://github.com/https://github.com/thunlp/ERNIE), Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities", imporove bert with heterogeneous information fusion. 
 ![](https://img.shields.io/github/stars/thunlp/ERNIE.svg)
+
+2. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK),  LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE, 
+![](https://img.shields.io/github/stars/PaddlePaddle/LARK.svg)
+
+3. [ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm), Pre-Training with Whole Word Masking for Chinese BERT https://arxiv.org/abs/1906.08101,  
+![](https://img.shields.io/github/stars/ymcui/Chinese-BERT-wwm.svg)
+
+4. [zihangdai/xlnet](https://github.com/zihangdai/xlnet), XLNet: Generalized Autoregressive Pretraining for Language Understanding, 
+![](https://img.shields.io/github/stars/zihangdai/xlnet.svg)
+
+5. [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl), Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context, This repository contains the code in both PyTorch and TensorFlow for our paper. 
+![](https://img.shields.io/github/stars/kimiyoung/transformer-xl.svg)
+
+6. [GaoPeng97/transformer-xl-chinese](https://github.com/GaoPeng97/transformer-xl-chinese), transformer xl在中文文本生成上的尝试。（transformer xl for text generation of chinese）, 
+![](https://img.shields.io/github/stars/GaoPeng97/transformer-xl-chinese.svg)
+
 
 
 ## other resources for BERT: 
