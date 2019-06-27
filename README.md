@@ -516,6 +516,10 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 13. [hankcs/BERT-token-level-embedding](https://github.com/hankcs/BERT-token-level-embedding), Generate BERT token level embedding without pain
 ![](https://img.shields.io/github/stars/hankcs/BERT-token-level-embedding.svg)
 
+13. [facebookresearch/LAMA](https://github.com/facebookresearch/LAMA), LAMA: LAnguage Model Analysis, LAMA is a set of connectors to pre-trained language models.
+![](https://img.shields.io/github/stars/facebookresearch/LAMA.svg)
+
+
 
 
 ## BERT Text Match: 
