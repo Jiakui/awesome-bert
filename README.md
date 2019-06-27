@@ -56,6 +56,11 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 19. [dbiir/UER-py](https://github.com/dbiir/UER-py),  UER-py is a toolkit for pre-training on general-domain corpus and fine-tuning on downstream task. UER-py maintains model modularity and supports research extensibility. It facilitates the use of different pre-training models (e.g. BERT), and provides interfaces for users to further extend upon.  
 ![](https://img.shields.io/github/stars/dbiir/UER-py.svg)
 
+
+19. [BrikerMan/Kashgari](https://github.com/BrikerMan/Kashgari), Simple, Keras-powered multilingual NLP framework, allows you to build your models in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS) and text classification tasks. Includes BERT, GPT-2 and word2vec embedding. 
+![](https://img.shields.io/github/stars/BrikerMan/Kashgari.svg)
+
+
 <details>
  
 <summary><b> Click to see more </b></summary>
