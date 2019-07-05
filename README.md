@@ -244,6 +244,14 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 2. [xmxoxo/BERT-train2deploy](https://github.com/xmxoxo/BERT-train2deploy), Bert Model training and deploy, BERT模型从训练到部署, 
 ![](https://img.shields.io/github/stars/xmxoxo/BERT-train2deploy.svg)
 
+
+3. [https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow/LanguageModeling/BERT](https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow/LanguageModeling/BERT), BERT For TensorFlow, This repository provides a script and recipe to train BERT to achieve state of the art accuracy, and is tested and maintained by NVIDIA.
+![](https://img.shields.io/github/stars/NVIDIA/DeepLearningExamples.svg)
+
+
+
+
+
 ## BERT QA & RC task:
 
 1. [sogou/SMRCToolkit](https://github.com/sogou/SMRCToolkit), This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes., 
