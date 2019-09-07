@@ -113,6 +113,22 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 </details>
 
 
+
+##  Pretrained BERT weights: 
+1. [brightmart/roberta_zh](https://github.com/brightmart/roberta_zh), RoBERTa for Chinese, 中文预训练RoBERTa模型, 
+![](https://img.shields.io/github/stars/brightmart/roberta_zh.svg)
+
+2. [ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm), Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm预训练模型） https://arxiv.org/abs/1906.08101, 
+![](https://img.shields.io/github/stars/ymcui/Chinese-BERT-wwm.svg)
+
+3. [thunlp/OpenCLaP](https://github.com/thunlp/OpenCLaP),Open Chinese Language Pre-trained Model Zoo, OpenCLaP：多领域开源中文预训练语言模型仓库, 
+![](https://img.shields.io/github/stars/thunlp/OpenCLaP.svg)
+
+4. [ymcui/Chinese-PreTrained-XLNet](https://github.com/ymcui/Chinese-PreTrained-XLNet), Pre-Trained Chinese XLNet（中文XLNet预训练模型）, 
+![](https://img.shields.io/github/stars/ymcui/Chinese-PreTrained-XLNet.svg)
+
+
+
 ## improvement over BERT:
 1. [thunlp/ERNIE](https://github.com/https://github.com/thunlp/ERNIE), Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities", imporove bert with heterogeneous information fusion. 
 ![](https://img.shields.io/github/stars/thunlp/ERNIE.svg)
