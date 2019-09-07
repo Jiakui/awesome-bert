@@ -141,8 +141,6 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 2. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK),  LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE, 
 ![](https://img.shields.io/github/stars/PaddlePaddle/LARK.svg)
  
-3. [ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm), Pre-Training with Whole Word Masking for Chinese BERT  https://arxiv.org/abs/1906.08101,  
-![](https://img.shields.io/github/stars/ymcui/Chinese-BERT-wwm.svg)
 
 4. [zihangdai/xlnet](https://github.com/zihangdai/xlnet), XLNet: Generalized Autoregressive Pretraining for Language Understanding, 
 ![](https://img.shields.io/github/stars/zihangdai/xlnet.svg)
