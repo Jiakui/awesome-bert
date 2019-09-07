@@ -60,6 +60,11 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 19. [BrikerMan/Kashgari](https://github.com/BrikerMan/Kashgari), Simple, Keras-powered multilingual NLP framework, allows you to build your models in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS) and text classification tasks. Includes BERT, GPT-2 and word2vec embedding. 
 ![](https://img.shields.io/github/stars/BrikerMan/Kashgari.svg)
 
+19. [kaushaltrivedi/fast-bert](https://github.com/kaushaltrivedi/fast-bert), Super easy library for BERT based NLP models, 
+![](https://img.shields.io/github/stars/kaushaltrivedi/fast-bert.svg)
+
+
+
 
 <details>
  
@@ -319,6 +324,9 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 16. [krishna-sharma19/SBU-QA](https://github.com/krishna-sharma19/SBU-QA), This repository uses pretrain BERT embeddings for transfer learning in QA domain
 ![](https://img.shields.io/github/stars/krishna-sharma19/SBU-QA.svg)
 
+16. [basketballandlearn/Dureader-Bert](https://github.com/basketballandlearn/Dureader-Bert), BERT Dureader多文档阅读理解 排名第七, 2019 Dureader机器阅读理解 单模型代码。, 
+![](https://img.shields.io/github/stars/basketballandlearn/Dureader-Bert.svg)
+
 
 
 ## BERT classification task:
@@ -479,6 +487,11 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 7. [WenRichard/KBQA-BERT](https://github.com/WenRichard/KBQA-BERT), 基于知识图谱的问答系统，BERT做命名实体识别和句子相似度，分为online和outline模式，博客介绍 https://zhuanlan.zhihu.com/p/62946533  ,
 ![](https://img.shields.io/github/stars/WenRichard/KBQA-BERT.svg)
 
+7. [zhpmatrix/BERTem](https://github.com/zhpmatrix/BERTem), ACL2019论文实现《Matching the Blanks: Distributional Similarity for Relation Learning》 ,
+![](https://img.shields.io/github/stars/zhpmatrix/BERTem.svg)
+
+
+
 
 ## BERT  Coreference Resolution 
 1. [ianycxu/RGCN-with-BERT](https://github.com/ianycxu/RGCN-with-BERT), Gated-Relational Graph Convolutional Networks (RGCN) with BERT for Coreference Resolution Task
@@ -573,6 +586,10 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 27. [nouhadziri/DialogEntailment](https://github.com/nouhadziri/DialogEntailment), The implementation of the paper "Evaluating Coherence in Dialogue Systems using Entailment" https://arxiv.org/abs/1904.03371
 ![](https://img.shields.io/github/stars/nouhadziri/DialogEntailment.svg)
+
+27. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers), Sentence Embeddings with BERT & XLNet, 
+Sentence Transformers: Sentence Embeddings using BERT / RoBERTa / XLNet with PyTorch, 
+![](https://img.shields.io/github/stars/UKPLab/sentence-transformers.svg)
 
 
 ## BERT tutorials: 
