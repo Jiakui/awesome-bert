@@ -50,17 +50,17 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 
 
 
-18. [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc,
+3. [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc,
 ![](https://img.shields.io/github/stars/dmlc/gluon-nlp.svg)
 
-19. [dbiir/UER-py](https://github.com/dbiir/UER-py),  UER-py is a toolkit for pre-training on general-domain corpus and fine-tuning on downstream task. UER-py maintains model modularity and supports research extensibility. It facilitates the use of different pre-training models (e.g. BERT), and provides interfaces for users to further extend upon.  
+4. [dbiir/UER-py](https://github.com/dbiir/UER-py),  UER-py is a toolkit for pre-training on general-domain corpus and fine-tuning on downstream task. UER-py maintains model modularity and supports research extensibility. It facilitates the use of different pre-training models (e.g. BERT), and provides interfaces for users to further extend upon.  
 ![](https://img.shields.io/github/stars/dbiir/UER-py.svg)
 
 
-19. [BrikerMan/Kashgari](https://github.com/BrikerMan/Kashgari), Simple, Keras-powered multilingual NLP framework, allows you to build your models in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS) and text classification tasks. Includes BERT, GPT-2 and word2vec embedding. 
+5. [BrikerMan/Kashgari](https://github.com/BrikerMan/Kashgari), Simple, Keras-powered multilingual NLP framework, allows you to build your models in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS) and text classification tasks. Includes BERT, GPT-2 and word2vec embedding. 
 ![](https://img.shields.io/github/stars/BrikerMan/Kashgari.svg)
 
-19. [kaushaltrivedi/fast-bert](https://github.com/kaushaltrivedi/fast-bert), Super easy library for BERT based NLP models, 
+6. [kaushaltrivedi/fast-bert](https://github.com/kaushaltrivedi/fast-bert), Super easy library for BERT based NLP models, 
 ![](https://img.shields.io/github/stars/kaushaltrivedi/fast-bert.svg)
 
 
@@ -71,48 +71,48 @@ AD:  a repository for graph convolutional networks at https://github.com/Jiakui/
 <summary><b> Click to see more </b></summary>
 
 
-3. [Separius/BERT-keras](https://github.com/Separius/BERT-keras), Keras implementation of BERT with pre-trained weights, 
+7. [Separius/BERT-keras](https://github.com/Separius/BERT-keras), Keras implementation of BERT with pre-trained weights, 
 ![](https://img.shields.io/github/stars/Separius/BERT-keras.svg)
 
-4. [soskek/bert-chainer](https://github.com/soskek/bert-chainer),  Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+8. [soskek/bert-chainer](https://github.com/soskek/bert-chainer),  Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
 ![](https://img.shields.io/github/stars/soskek/bert-chainer.svg)
 
-5. [innodatalabs/tbert](https://github.com/innodatalabs/tbert), PyTorch port of BERT ML model
+9. [innodatalabs/tbert](https://github.com/innodatalabs/tbert), PyTorch port of BERT ML model
 ![](https://img.shields.io/github/stars/innodatalabs/tbert.svg)
 
-6. [guotong1988/BERT-tensorflow](https://github.com/guotong1988/BERT-tensorflow), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+10. [guotong1988/BERT-tensorflow](https://github.com/guotong1988/BERT-tensorflow), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 ![](https://img.shields.io/github/stars/guotong1988/BERT-tensorflow.svg)
 
-7. [dreamgonfly/BERT-pytorch](https://github.com/dreamgonfly/BERT-pytorch), 
+11. [dreamgonfly/BERT-pytorch](https://github.com/dreamgonfly/BERT-pytorch), 
 PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" 
 ![](https://img.shields.io/github/stars/dreamgonfly/BERT-pytorch.svg)
 
-8. [CyberZHG/keras-bert](https://github.com/CyberZHG/keras-bert), Implementation of BERT that could load official pre-trained models for feature extraction and prediction
+12. [CyberZHG/keras-bert](https://github.com/CyberZHG/keras-bert), Implementation of BERT that could load official pre-trained models for feature extraction and prediction
 ![](https://img.shields.io/github/stars/CyberZHG/keras-bert.svg)
 
-9. [soskek/bert-chainer](https://github.com/soskek/bert-chainer), Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+13. [soskek/bert-chainer](https://github.com/soskek/bert-chainer), Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
 ![](https://img.shields.io/github/stars/soskek/bert-chainer.svg)
 
-10. [MaZhiyuanBUAA/bert-tf1.4.0](https://github.com/MaZhiyuanBUAA/bert-tf1.4.0), bert-tf1.4.0
+14. [MaZhiyuanBUAA/bert-tf1.4.0](https://github.com/MaZhiyuanBUAA/bert-tf1.4.0), bert-tf1.4.0
 ![](https://img.shields.io/github/stars/MaZhiyuanBUAA/bert-tf1.4.0.svg)
 
-11. [dhlee347/pytorchic-bert](https://github.com/dhlee347/pytorchic-bert), Pytorch Implementation of Google BERT,
+15. [dhlee347/pytorchic-bert](https://github.com/dhlee347/pytorchic-bert), Pytorch Implementation of Google BERT,
 ![](https://img.shields.io/github/stars/dhlee347/pytorchic-bert.svg)
 
-12. [kpot/keras-transformer](https://github.com/kpot/keras-transformer), Keras library for building (Universal) Transformers, facilitating BERT and GPT models,
+16. [kpot/keras-transformer](https://github.com/kpot/keras-transformer), Keras library for building (Universal) Transformers, facilitating BERT and GPT models,
 ![](https://img.shields.io/github/stars/kpot/keras-transformer.svg)
 
-13. [miroozyx/BERT_with_keras](https://github.com/miroozyx/BERT_with_keras), A Keras version of Google's BERT model,
+17. [miroozyx/BERT_with_keras](https://github.com/miroozyx/BERT_with_keras), A Keras version of Google's BERT model,
 ![](https://img.shields.io/github/stars/miroozyx/BERT_with_keras.svg)
 
-14. [conda-forge/pytorch-pretrained-bert-feedstock](https://github.com/conda-forge/pytorch-pretrained-bert-feedstock), A conda-smithy repository for pytorch-pretrained-bert. ,
+18. [conda-forge/pytorch-pretrained-bert-feedstock](https://github.com/conda-forge/pytorch-pretrained-bert-feedstock), A conda-smithy repository for pytorch-pretrained-bert. ,
 ![](https://img.shields.io/github/stars/conda-forge/pytorch-pretrained-bert-feedstock.svg)
 
 
-15. [Rshcaroline/BERT_Pytorch_fastNLP](https://github.com/Rshcaroline/BERT_Pytorch_fastNLP), A PyTorch & fastNLP implementation of Google AI's BERT model.
+19. [Rshcaroline/BERT_Pytorch_fastNLP](https://github.com/Rshcaroline/BERT_Pytorch_fastNLP), A PyTorch & fastNLP implementation of Google AI's BERT model.
 ![](https://img.shields.io/github/stars/Rshcaroline/BERT_Pytorch_fastNLP.svg)
 
-17. [nghuyong/ERNIE-Pytorch](https://github.com/nghuyong/ERNIE-Pytorch), ERNIE Pytorch Version,
+20. [nghuyong/ERNIE-Pytorch](https://github.com/nghuyong/ERNIE-Pytorch), ERNIE Pytorch Version,
 ![](https://img.shields.io/github/stars/nghuyong/ERNIE-Pytorch.svg)
 
 </details>
@@ -142,19 +142,19 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 ![](https://img.shields.io/github/stars/PaddlePaddle/LARK.svg)
  
 
-4. [zihangdai/xlnet](https://github.com/zihangdai/xlnet), XLNet: Generalized Autoregressive Pretraining for Language Understanding, 
+3. [zihangdai/xlnet](https://github.com/zihangdai/xlnet), XLNet: Generalized Autoregressive Pretraining for Language Understanding, 
 ![](https://img.shields.io/github/stars/zihangdai/xlnet.svg)
 
-5. [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl), Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context, This repository contains the code in both PyTorch and TensorFlow for our paper. 
+4. [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl), Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context, This repository contains the code in both PyTorch and TensorFlow for our paper. 
 ![](https://img.shields.io/github/stars/kimiyoung/transformer-xl.svg)
 
-6. [GaoPeng97/transformer-xl-chinese](https://github.com/GaoPeng97/transformer-xl-chinese), transformer xl在中文文本生成上的尝试。（transformer xl for text generation of chinese）, 
+5. [GaoPeng97/transformer-xl-chinese](https://github.com/GaoPeng97/transformer-xl-chinese), transformer xl在中文文本生成上的尝试。（transformer xl for text generation of chinese）, 
 ![](https://img.shields.io/github/stars/GaoPeng97/transformer-xl-chinese.svg)
 
-7. [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE),  An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)  BERT 的中文改进版 ERNIE, 
+6. [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE),  An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)  BERT 的中文改进版 ERNIE, 
 ![](https://img.shields.io/github/stars/PaddlePaddle/ERNIE.svg)
 
-8. [pytorch/fairseq](https://github.com/pytorch/fairseq),  Facebook AI Research Sequence-to-Sequence Toolkit written in Python. RoBERTa: A Robustly Optimized BERT Pretraining Approach, 
+7. [pytorch/fairseq](https://github.com/pytorch/fairseq),  Facebook AI Research Sequence-to-Sequence Toolkit written in Python. RoBERTa: A Robustly Optimized BERT Pretraining Approach, 
 ![](https://img.shields.io/github/stars/pytorch/fairseq.svg)
 
 
@@ -172,7 +172,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 <summary><b> Click to see more </b></summary>
 
 
-9. [yangbisheng2009/cn-bert](https://github.com/yangbisheng2009/cn-bert), BERT在中文NLP的应用, 语法检查
+3. [yangbisheng2009/cn-bert](https://github.com/yangbisheng2009/cn-bert), BERT在中文NLP的应用, 语法检查
 ![](https://img.shields.io/github/stars/yangbisheng2009/cn-bert.svg)
 
 4. [JayYip/bert-multiple-gpu](https://github.com/JayYip/bert-multiple-gpu), A multiple GPU support version of BERT,
@@ -237,10 +237,10 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 ![](https://img.shields.io/github/stars/cdathuraliya/bert-inference.svg)
 
 
-26. [gameofdimension/java-bert-predict](https://github.com/gameofdimension/java-bert-predict), turn bert pretrain checkpoint into saved model for a feature extracting demo in java
+25. [gameofdimension/java-bert-predict](https://github.com/gameofdimension/java-bert-predict), turn bert pretrain checkpoint into saved model for a feature extracting demo in java
 ![](https://img.shields.io/github/stars/gameofdimension/java-bert-predict.svg)
 
-27. [1234560o/Bert-model-code-interpretation](https://github.com/1234560o/Bert-model-code-interpretation), 解读tensorflow版本Bert中modeling.py数据流
+26. [1234560o/Bert-model-code-interpretation](https://github.com/1234560o/Bert-model-code-interpretation), 解读tensorflow版本Bert中modeling.py数据流
 ![](https://img.shields.io/github/stars/1234560o/Bert-model-code-interpretation.svg)
 
 </details>
@@ -273,6 +273,12 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 3. [https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow/LanguageModeling/BERT](https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow/LanguageModeling/BERT), BERT For TensorFlow, This repository provides a script and recipe to train BERT to achieve state of the art accuracy, and is tested and maintained by NVIDIA.
 ![](https://img.shields.io/github/stars/NVIDIA/DeepLearningExamples.svg)
 
+4. [qiangsiwei/bert_distill](https://github.com/qiangsiwei/bert_distill), BERT distillation（基于BERT的蒸馏实验 ）, 
+![](https://img.shields.io/github/stars/qiangsiwei/bert_distill.svg)
+
+5. [kevinmtian/distill-bert](https://github.com/kevinmtian/distill-bert), Knowledge Distillation from BERT, 
+![](https://img.shields.io/github/stars/kevinmtian/distill-bert.svg)
+
 
 
 
@@ -283,7 +289,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 ![](https://img.shields.io/github/stars/sogou/SMRCToolkit.svg)
 
 
-1. [benywon/ChineseBert](https://github.com/benywon/ChineseBert), This is a chinese Bert model specific for question answering,
+2. [benywon/ChineseBert](https://github.com/benywon/ChineseBert), This is a chinese Bert model specific for question answering,
 ![](https://img.shields.io/github/stars/benywon/ChineseBert.svg)
 
 3. [matthew-z/R-net](https://github.com/matthew-z/R-net), R-net in PyTorch, with BERT and ELMo,
@@ -298,31 +304,31 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 6. [chiayewken/bert-qa](https://github.com/chiayewken/bert-qa), BERT for question answering starting with HotpotQA,
 ![](https://img.shields.io/github/stars/chiayewken/bert-qa.svg)
 
-8. [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids), BertQA - Attention on Steroids,
+7. [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids), BertQA - Attention on Steroids,
 ![](https://img.shields.io/github/stars/ankit-ai/BertQA-Attention-on-Steroids.svg)
 
-10. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE), This work is based on Pytorch implementation of BERT (https://github.com/huggingface/pytorch-pretrained-BERT). I adapted the original BERT model to work on multiple choice machine comprehension.
+8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE), This work is based on Pytorch implementation of BERT (https://github.com/huggingface/pytorch-pretrained-BERT). I adapted the original BERT model to work on multiple choice machine comprehension.
 ![](https://img.shields.io/github/stars/NoviScl/BERT-RACE.svg)
 
-11. [eva-n27/BERT-for-Chinese-Question-Answering](https://github.com/eva-n27/BERT-for-Chinese-Question-Answering), 
+9. [eva-n27/BERT-for-Chinese-Question-Answering](https://github.com/eva-n27/BERT-for-Chinese-Question-Answering), 
 ![](https://img.shields.io/github/stars/eva-n27/BERT-for-Chinese-Question-Answering.svg)
 
-12. [allenai/allennlp-bert-qa-wrapper](https://github.com/allenai/allennlp-bert-qa-wrapper),  This is a simple wrapper on top of pretrained BERT based QA models from pytorch-pretrained-bert to make AllenNLP model archives, so that you can serve demos from AllenNLP.
+10. [allenai/allennlp-bert-qa-wrapper](https://github.com/allenai/allennlp-bert-qa-wrapper),  This is a simple wrapper on top of pretrained BERT based QA models from pytorch-pretrained-bert to make AllenNLP model archives, so that you can serve demos from AllenNLP.
 ![](https://img.shields.io/github/stars/allenai/allennlp-bert-qa-wrapper.svg)
 
-13. [edmondchensj/ChineseQA-with-BERT](https://github.com/edmondchensj/ChineseQA-with-BERT), EECS 496: Advanced Topics in Deep Learning Final Project: Chinese Question Answering with BERT (Baidu DuReader Dataset)
+11. [edmondchensj/ChineseQA-with-BERT](https://github.com/edmondchensj/ChineseQA-with-BERT), EECS 496: Advanced Topics in Deep Learning Final Project: Chinese Question Answering with BERT (Baidu DuReader Dataset)
 ![](https://img.shields.io/github/stars/edmondchensj/ChineseQA-with-BERT.svg)
 
-14. [graykode/toeicbert](https://github.com/graykode/toeicbert), TOEIC(Test of English for International Communication) solving using pytorch-pretrained-BERT model.,
+12. [graykode/toeicbert](https://github.com/graykode/toeicbert), TOEIC(Test of English for International Communication) solving using pytorch-pretrained-BERT model.,
 ![](https://img.shields.io/github/starsgraykode/toeicbert.svg)
 
-15. [graykode/KorQuAD-beginner](https://github.com/graykode/KorQuAD-beginner), https://github.com/graykode/KorQuAD-beginner
+13. [graykode/KorQuAD-beginner](https://github.com/graykode/KorQuAD-beginner), https://github.com/graykode/KorQuAD-beginner
 ![](https://img.shields.io/github/stars/graykode/KorQuAD-beginner.svg)
 
-16. [krishna-sharma19/SBU-QA](https://github.com/krishna-sharma19/SBU-QA), This repository uses pretrain BERT embeddings for transfer learning in QA domain
+14. [krishna-sharma19/SBU-QA](https://github.com/krishna-sharma19/SBU-QA), This repository uses pretrain BERT embeddings for transfer learning in QA domain
 ![](https://img.shields.io/github/stars/krishna-sharma19/SBU-QA.svg)
 
-16. [basketballandlearn/Dureader-Bert](https://github.com/basketballandlearn/Dureader-Bert), BERT Dureader多文档阅读理解 排名第七, 2019 Dureader机器阅读理解 单模型代码。, 
+15. [basketballandlearn/Dureader-Bert](https://github.com/basketballandlearn/Dureader-Bert), BERT Dureader多文档阅读理解 排名第七, 2019 Dureader机器阅读理解 单模型代码。, 
 ![](https://img.shields.io/github/stars/basketballandlearn/Dureader-Bert.svg)
 
 
@@ -347,22 +353,22 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 6. [xiaopingzhong/bert-finetune-for-classfier](https://github.com/xiaopingzhong/bert-finetune-for-classfier), 微调BERT模型,同时构建自己的数据集实现分类
 ![](https://img.shields.io/github/stars/xiaopingzhong/bert-finetune-for-classfier.svg)
 
-8. [pengming617/bert_classification](https://github.com/pengming617/bert_classification), 利用bert预训练的中文模型进行文本分类,
+7. [pengming617/bert_classification](https://github.com/pengming617/bert_classification), 利用bert预训练的中文模型进行文本分类,
 ![](https://img.shields.io/github/stars/pengming617/bert_classification.svg)
 
-9. [xieyufei1993/Bert-Pytorch-Chinese-TextClassification](https://github.com/xieyufei1993/Bert-Pytorch-Chinese-TextClassification), Pytorch Bert Finetune in Chinese Text Classification,
+8. [xieyufei1993/Bert-Pytorch-Chinese-TextClassification](https://github.com/xieyufei1993/Bert-Pytorch-Chinese-TextClassification), Pytorch Bert Finetune in Chinese Text Classification,
 ![](https://img.shields.io/github/stars/xieyufei1993/Bert-Pytorch-Chinese-TextClassification.svg)
 
-10. [liyibo/text-classification-demos](https://github.com/liyibo/text-classification-demos), Neural models for Text Classification in Tensorflow, such as cnn, dpcnn, fasttext, bert ...,
+9. [liyibo/text-classification-demos](https://github.com/liyibo/text-classification-demos), Neural models for Text Classification in Tensorflow, such as cnn, dpcnn, fasttext, bert ...,
 ![](https://img.shields.io/github/stars/liyibo/text-classification-demos.svg)
 
-11. [circlePi/BERT_Chinese_Text_Class_By_pytorch](https://github.com/circlePi/BERT_Chinese_Text_Class_By_pytorch), A Pytorch implements of Chinese text class based on BERT_Pretrained_Model,
+10. [circlePi/BERT_Chinese_Text_Class_By_pytorch](https://github.com/circlePi/BERT_Chinese_Text_Class_By_pytorch), A Pytorch implements of Chinese text class based on BERT_Pretrained_Model,
 ![](https://img.shields.io/github/stars/circlePi/BERT_Chinese_Text_Class_By_pytorch.svg)
 
-12. [kaushaltrivedi/bert-toxic-comments-multilabel](https://github.com/kaushaltrivedi/bert-toxic-comments-multilabel), Multilabel classification for Toxic comments challenge using Bert,
+11. [kaushaltrivedi/bert-toxic-comments-multilabel](https://github.com/kaushaltrivedi/bert-toxic-comments-multilabel), Multilabel classification for Toxic comments challenge using Bert,
 ![](https://img.shields.io/github/stars/kaushaltrivedi/bert-toxic-comments-multilabel.svg)
 
-13. [lonePatient/BERT-chinese-text-classification-pytorch](https://github.com/lonePatient/BERT-chinese-text-classification-pytorch), This repo contains a PyTorch implementation of a pretrained BERT model for text classification.,
+12. [lonePatient/BERT-chinese-text-classification-pytorch](https://github.com/lonePatient/BERT-chinese-text-classification-pytorch), This repo contains a PyTorch implementation of a pretrained BERT model for text classification.,
 ![](https://img.shields.io/github/stars/lonePatient/BERT-chinese-text-classification-pytorch.svg)
 
 
@@ -372,64 +378,64 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 1. [Chung-I/Douban-Sentiment-Analysis](https://github.com/Chung-I/Douban-Sentiment-Analysis), Sentiment Analysis on Douban Movie Short Comments Dataset using BERT.
 ![](https://img.shields.io/github/stars/Chung-I/Douban-Sentiment-Analysis.svg)
 
-14. [lynnna-xu/bert_sa](https://github.com/lynnna-xu/bert_sa), bert sentiment analysis tensorflow serving with RESTful API
+2. [lynnna-xu/bert_sa](https://github.com/lynnna-xu/bert_sa), bert sentiment analysis tensorflow serving with RESTful API
 ![](https://img.shields.io/github/stars/lynnna-xu/bert_sa.svg)
 
-15. [HSLCY/ABSA-BERT-pair](https://github.com/HSLCY/ABSA-BERT-pair), Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence (NAACL 2019) https://arxiv.org/abs/1903.09588,
+3. [HSLCY/ABSA-BERT-pair](https://github.com/HSLCY/ABSA-BERT-pair), Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence (NAACL 2019) https://arxiv.org/abs/1903.09588,
 ![](https://img.shields.io/github/stars/HSLCY/ABSA-BERT-pair.svg)
 
-16. [songyouwei/ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch), Aspect Based Sentiment Analysis, PyTorch Implementations. 基于方面的情感分析，使用PyTorch实现。,
+4. [songyouwei/ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch), Aspect Based Sentiment Analysis, PyTorch Implementations. 基于方面的情感分析，使用PyTorch实现。,
 ![](https://img.shields.io/github/stars/songyouwei/ABSA-PyTorch.svg)
 
-17. [howardhsu/BERT-for-RRC-ABSA](https://github.com/howardhsu/BERT-for-RRC-ABSA), code for our NAACL 2019 paper: "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis",
+5. [howardhsu/BERT-for-RRC-ABSA](https://github.com/howardhsu/BERT-for-RRC-ABSA), code for our NAACL 2019 paper: "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis",
 ![](https://img.shields.io/github/stars/howardhsu/BERT-for-RRC-ABSA.svg)
 
-7. [brightmart/sentiment_analysis_fine_grain](https://github.com/brightmart/sentiment_analysis_fine_grain), Multi-label Classification with BERT; Fine Grained Sentiment Analysis from AI challenger,
+6. [brightmart/sentiment_analysis_fine_grain](https://github.com/brightmart/sentiment_analysis_fine_grain), Multi-label Classification with BERT; Fine Grained Sentiment Analysis from AI challenger,
 ![](https://img.shields.io/github/stars/brightmart/sentiment_analysis_fine_grain.svg)
 
 
 ## BERT  NER  task:  
 
-2. [zhpmatrix/bert-sequence-tagging](https://github.com/zhpmatrix/bert-sequence-tagging), 基于BERT的中文序列标注
+1. [zhpmatrix/bert-sequence-tagging](https://github.com/zhpmatrix/bert-sequence-tagging), 基于BERT的中文序列标注
 ![](https://img.shields.io/github/stars/zhpmatrix/bert-sequence-tagging.svg)
 
-3. [kyzhouhzau/BERT-NER](https://github.com/kyzhouhzau/BERT-NER), Use google BERT to do CoNLL-2003 NER ! ,
+2. [kyzhouhzau/BERT-NER](https://github.com/kyzhouhzau/BERT-NER), Use google BERT to do CoNLL-2003 NER ! ,
 ![](https://img.shields.io/github/stars/kyzhouhzau/BERT-NER.svg)
 
-4. [king-menin/ner-bert](https://github.com/king-menin/ner-bert), NER task solution (bert-Bi-LSTM-CRF) with google bert https://github.com/google-research.
+3. [king-menin/ner-bert](https://github.com/king-menin/ner-bert), NER task solution (bert-Bi-LSTM-CRF) with google bert https://github.com/google-research.
 ![](https://img.shields.io/github/stars/king-menin/ner-bert.svg)
 
-5. [macanv/BERT-BiLSMT-CRF-NER](https://github.com/macanv/BERT-BiLSMT-CRF-NER), Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning  ,
+4. [macanv/BERT-BiLSMT-CRF-NER](https://github.com/macanv/BERT-BiLSMT-CRF-NER), Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning  ,
 ![](https://img.shields.io/github/stars/macanv/BERT-BiLSMT-CRF-NER.svg)
 
-6. [FuYanzhe2/Name-Entity-Recognition](https://github.com/FuYanzhe2/Name-Entity-Recognition), Lstm-crf,Lattice-CRF,bert-ner及近年ner相关论文follow,
+5. [FuYanzhe2/Name-Entity-Recognition](https://github.com/FuYanzhe2/Name-Entity-Recognition), Lstm-crf,Lattice-CRF,bert-ner及近年ner相关论文follow,
 ![](https://img.shields.io/github/stars/FuYanzhe2/Name-Entity-Recognition.svg)
 
-7. [mhcao916/NER_Based_on_BERT](https://github.com/mhcao916/NER_Based_on_BERT), this project is based on google bert model, which is a Chinese NER
+6. [mhcao916/NER_Based_on_BERT](https://github.com/mhcao916/NER_Based_on_BERT), this project is based on google bert model, which is a Chinese NER
 ![](https://img.shields.io/github/stars/mhcao916/NER_Based_on_BERT.svg)
 
-8. [ProHiryu/bert-chinese-ner](https://github.com/ProHiryu/bert-chinese-ner), 使用预训练语言模型BERT做中文NER,
+7. [ProHiryu/bert-chinese-ner](https://github.com/ProHiryu/bert-chinese-ner), 使用预训练语言模型BERT做中文NER,
 ![](https://img.shields.io/github/stars/ProHiryu/bert-chinese-ner.svg)
 
-9. [sberbank-ai/ner-bert](https://github.com/sberbank-ai/ner-bert), BERT-NER (nert-bert) with google bert,
+8. [sberbank-ai/ner-bert](https://github.com/sberbank-ai/ner-bert), BERT-NER (nert-bert) with google bert,
 ![](https://img.shields.io/github/stars/sberbank-ai/ner-bert.svg)
 
-10. [kyzhouhzau/Bert-BiLSTM-CRF](https://github.com/kyzhouhzau/Bert-BiLSTM-CRF), This model base on bert-as-service. Model structure : bert-embedding bilstm crf. ,
+9. [kyzhouhzau/Bert-BiLSTM-CRF](https://github.com/kyzhouhzau/Bert-BiLSTM-CRF), This model base on bert-as-service. Model structure : bert-embedding bilstm crf. ,
 ![](https://img.shields.io/github/stars/kyzhouhzau/Bert-BiLSTM-CRF.svg)
 
-11. [Hoiy/berserker](https://github.com/Hoiy/berserker), Berserker - BERt chineSE woRd toKenizER, Berserker (BERt chineSE woRd toKenizER) is a Chinese tokenizer built on top of Google's BERT model. ,
+10. [Hoiy/berserker](https://github.com/Hoiy/berserker), Berserker - BERt chineSE woRd toKenizER, Berserker (BERt chineSE woRd toKenizER) is a Chinese tokenizer built on top of Google's BERT model. ,
 ![](https://img.shields.io/github/stars/Hoiy/berserker.svg)
 
-12. [Kyubyong/bert_ner](https://github.com/Kyubyong/bert_ner), Ner with Bert,
+11. [Kyubyong/bert_ner](https://github.com/Kyubyong/bert_ner), Ner with Bert,
 ![](https://img.shields.io/github/stars/Kyubyong/bert_ner.svg)
 
-13. [jiangpinglei/BERT_ChineseWordSegment](https://github.com/jiangpinglei/BERT_ChineseWordSegment),  A Chinese word segment model based on BERT, F1-Score 97%,
+12. [jiangpinglei/BERT_ChineseWordSegment](https://github.com/jiangpinglei/BERT_ChineseWordSegment),  A Chinese word segment model based on BERT, F1-Score 97%,
 ![](https://img.shields.io/github/stars/jiangpinglei/BERT_ChineseWordSegment.svg)
 
-14. [yanwii/ChineseNER](https://github.com/yanwii/ChineseNER), 基于Bi-GRU + CRF 的中文机构名、人名识别 中文实体识别, 支持google bert模型
+13. [yanwii/ChineseNER](https://github.com/yanwii/ChineseNER), 基于Bi-GRU + CRF 的中文机构名、人名识别 中文实体识别, 支持google bert模型
 ![](https://img.shields.io/github/stars/yanwii/ChineseNER.svg)
 
-15. [lemonhu/NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch), PyTorch solution of NER task Using Google AI's pre-trained BERT model.
+14. [lemonhu/NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch), PyTorch solution of NER task Using Google AI's pre-trained BERT model.
 ![](https://img.shields.io/github/stars/lemonhu/NER-BERT-pytorch.svg)
 
 
@@ -485,7 +491,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 7. [WenRichard/KBQA-BERT](https://github.com/WenRichard/KBQA-BERT), 基于知识图谱的问答系统，BERT做命名实体识别和句子相似度，分为online和outline模式，博客介绍 https://zhuanlan.zhihu.com/p/62946533  ,
 ![](https://img.shields.io/github/stars/WenRichard/KBQA-BERT.svg)
 
-7. [zhpmatrix/BERTem](https://github.com/zhpmatrix/BERTem), ACL2019论文实现《Matching the Blanks: Distributional Similarity for Relation Learning》 ,
+8. [zhpmatrix/BERTem](https://github.com/zhpmatrix/BERTem), ACL2019论文实现《Matching the Blanks: Distributional Similarity for Relation Learning》 ,
 ![](https://img.shields.io/github/stars/zhpmatrix/BERTem.svg)
 
 
@@ -504,6 +510,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 1. [jessevig/bertviz](https://github.com/jessevig/bertviz), Tool for visualizing BERT's attention,
 ![](https://img.shields.io/github/stars/jessevig/bertviz.svg)
 
+
 ## BERT chatbot :
 1. [GaoQ1/rasa_nlu_gq](https://github.com/GaoQ1/rasa_nlu_gq), turn natural language into structured data(支持中文，自定义了N种模型，支持不同的场景和任务),
 ![](https://img.shields.io/github/stars/GaoQ1/rasa_nlu_gq.svg)
@@ -514,14 +521,16 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 3. [GaoQ1/rasa-bert-finetune](https://github.com/GaoQ1/rasa-bert-finetune), 支持rasa-nlu 的bert finetune,
 ![](https://img.shields.io/github/stars/GaoQ1/rasa-bert-finetune.svg)
 
-5. [geodge831012/bert_robot](https://github.com/geodge831012/bert_robot), 用于智能助手回答问题的训练，基于BERT模型进行训练改造
+4. [geodge831012/bert_robot](https://github.com/geodge831012/bert_robot), 用于智能助手回答问题的训练，基于BERT模型进行训练改造
 ![](https://img.shields.io/github/stars/geodge831012/bert_robot.svg)
 
-6. [yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification](https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification), This is the template code to use BERT for sequence lableing and text classification, in order to facilitate BERT for more tasks. Currently, the template code has included conll-2003 named entity identification, Snips Slot Filling and Intent Prediction.
+5. [yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification](https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification), This is the template code to use BERT for sequence lableing and text classification, in order to facilitate BERT for more tasks. Currently, the template code has included conll-2003 named entity identification, Snips Slot Filling and Intent Prediction.
 ![](https://img.shields.io/github/stars/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification.svg)
 
-7. [guillaume-chevalier/ReuBERT](https://github.com/guillaume-chevalier/ReuBERT), A question-answering chatbot, simply.
+6. [guillaume-chevalier/ReuBERT](https://github.com/guillaume-chevalier/ReuBERT), A question-answering chatbot, simply.
 ![](https://img.shields.io/github/stars/guillaume-chevalier/ReuBERT.svg)
+
+
 
 ## BERT language model and embedding: 
 
@@ -556,10 +565,10 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 ![](https://img.shields.io/github/stars/charles9n/bert-sklearn.svg)
 
 
-12. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM), Ongoing research training transformer language models at scale, including: BERT,
+11. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM), Ongoing research training transformer language models at scale, including: BERT,
 ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg)
 
-13. [hankcs/BERT-token-level-embedding](https://github.com/hankcs/BERT-token-level-embedding), Generate BERT token level embedding without pain
+12. [hankcs/BERT-token-level-embedding](https://github.com/hankcs/BERT-token-level-embedding), Generate BERT token level embedding without pain
 ![](https://img.shields.io/github/stars/hankcs/BERT-token-level-embedding.svg)
 
 13. [facebookresearch/LAMA](https://github.com/facebookresearch/LAMA), LAMA: LAnguage Model Analysis, LAMA is a set of connectors to pre-trained language models.
@@ -573,19 +582,19 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 1. [pengming617/bert_textMatching](https://github.com/pengming617/bert_textMatching), 利用预训练的中文模型实现基于bert的语义匹配模型 数据集为LCQMC官方数据
 ![](https://img.shields.io/github/stars/pengming617/bert_textMatching.svg)
 
-14. [Brokenwind/BertSimilarity](https://github.com/Brokenwind/BertSimilarity), Computing similarity of two sentences with google's BERT algorithm
+2. [Brokenwind/BertSimilarity](https://github.com/Brokenwind/BertSimilarity), Computing similarity of two sentences with google's BERT algorithm
 ![](https://img.shields.io/github/stars/Brokenwind/BertSimilarity.svg)
 
-25. [policeme/chinese_bert_similarity](https://github.com/policeme/chinese_bert_similarity), bert chinese similarity
+3. [policeme/chinese_bert_similarity](https://github.com/policeme/chinese_bert_similarity), bert chinese similarity
 ![](https://img.shields.io/github/stars/policeme/chinese_bert_similarity.svg)
 
-26. [lonePatient/bert-sentence-similarity-pytorch](https://github.com/lonePatient/bert-sentence-similarity-pytorch), This repo contains a PyTorch implementation of a pretrained BERT model for sentence similarity task.
+4. [lonePatient/bert-sentence-similarity-pytorch](https://github.com/lonePatient/bert-sentence-similarity-pytorch), This repo contains a PyTorch implementation of a pretrained BERT model for sentence similarity task.
 ![](https://img.shields.io/github/stars/lonePatient/bert-sentence-similarity-pytorch.svg)
 
-27. [nouhadziri/DialogEntailment](https://github.com/nouhadziri/DialogEntailment), The implementation of the paper "Evaluating Coherence in Dialogue Systems using Entailment" https://arxiv.org/abs/1904.03371
+5. [nouhadziri/DialogEntailment](https://github.com/nouhadziri/DialogEntailment), The implementation of the paper "Evaluating Coherence in Dialogue Systems using Entailment" https://arxiv.org/abs/1904.03371
 ![](https://img.shields.io/github/stars/nouhadziri/DialogEntailment.svg)
 
-27. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers), Sentence Embeddings with BERT & XLNet, 
+6. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers), Sentence Embeddings with BERT & XLNet, 
 Sentence Transformers: Sentence Embeddings using BERT / RoBERTa / XLNet with PyTorch, 
 ![](https://img.shields.io/github/stars/UKPLab/sentence-transformers.svg)
 
