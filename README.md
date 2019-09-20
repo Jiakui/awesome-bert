@@ -158,6 +158,12 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 ![](https://img.shields.io/github/stars/pytorch/fairseq.svg)
 
 
+8. [facebookresearch/SpanBERT](https://github.com/facebookresearch/SpanBERT), Code for using and evaluating SpanBERT.
+, This repository contains code and models for the paper: SpanBERT: Improving Pre-training by Representing and Predicting Spans., 
+![](https://img.shields.io/github/stars/facebookresearch/SpanBERT.svg)
+
+
+
 
 ## other resources for BERT: 
 
