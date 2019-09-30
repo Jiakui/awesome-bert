@@ -132,6 +132,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 4. [ymcui/Chinese-PreTrained-XLNet](https://github.com/ymcui/Chinese-PreTrained-XLNet), Pre-Trained Chinese XLNet（中文XLNet预训练模型）, 
 ![](https://img.shields.io/github/stars/ymcui/Chinese-PreTrained-XLNet.svg)
 
+5. [brightmart/xlnet_zh](https://github.com/brightmart/xlnet_zh), 中文预训练XLNet模型: Pre-Trained Chinese XLNet_Large, 
+![](https://img.shields.io/github/stars/brightmart/xlnet_zh.svg)
 
 
 ## improvement over BERT:
@@ -141,7 +143,6 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 2. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK),  LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE, 
 ![](https://img.shields.io/github/stars/PaddlePaddle/LARK.svg)
  
-
 3. [zihangdai/xlnet](https://github.com/zihangdai/xlnet), XLNet: Generalized Autoregressive Pretraining for Language Understanding, 
 ![](https://img.shields.io/github/stars/zihangdai/xlnet.svg)
 
@@ -162,6 +163,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 , This repository contains code and models for the paper: SpanBERT: Improving Pre-training by Representing and Predicting Spans., 
 ![](https://img.shields.io/github/stars/facebookresearch/SpanBERT.svg)
 
+9. [brightmart/albert_zh](https://github.com/brightmart/albert_zh), 海量中文预训练ALBERT模型, A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS https://arxiv.org/pdf/1909.11942.pdf, 
+![](https://img.shields.io/github/stars/brightmart/albert_zh.svg)
 
 
 
