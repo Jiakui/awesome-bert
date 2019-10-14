@@ -115,6 +115,9 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 20. [nghuyong/ERNIE-Pytorch](https://github.com/nghuyong/ERNIE-Pytorch), ERNIE Pytorch Version,
 ![](https://img.shields.io/github/stars/nghuyong/ERNIE-Pytorch.svg)
 
+21. [deepset-ai/FARM](https://github.com/deepset-ai/FARM), Simple Pytorch Framework for Transfer Learning in the Industry,
+![](https://img.shields.io/github/stars/deepset-ai/FARM.svg)
+
 </details>
 
 
@@ -135,6 +138,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 5. [brightmart/xlnet_zh](https://github.com/brightmart/xlnet_zh), 中文预训练XLNet模型: Pre-Trained Chinese XLNet_Large, 
 ![](https://img.shields.io/github/stars/brightmart/xlnet_zh.svg)
 
+6. [GermanBERT](https://deepset.ai/german-bert), BERT for German
 
 ## improvement over BERT:
 1. [thunlp/ERNIE](https://github.com/https://github.com/thunlp/ERNIE), Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities", imporove bert with heterogeneous information fusion. 
