@@ -166,6 +166,13 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 9. [brightmart/albert_zh](https://github.com/brightmart/albert_zh), 海量中文预训练ALBERT模型, A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS https://arxiv.org/pdf/1909.11942.pdf, 
 ![](https://img.shields.io/github/stars/brightmart/albert_zh.svg)
 
+10. [lonePatient/albert_pytorch](https://github.com/lonePatient/albert_pytorch), A Lite Bert For Self-Supervised Learning Language Representations, 
+![](https://img.shields.io/github/stars/lonePatient/albert_pytorch.svg)
+
+
+11. [kpe/bert-for-tf2](https://github.com/kpe/bert-for-tf2), A Keras TensorFlow 2.0 implementation of BERT, ALBERT and adapter-BERT. https://github.com/kpe/bert-for-tf2, 
+![](https://img.shields.io/github/stars/kpe/bert-for-tf2.svg)
+
 
 
 ## other resources for BERT: 
