@@ -276,6 +276,9 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 4. [EmilyAlsentzer/clinicalBERT](https://github.com/EmilyAlsentzer/clinicalBERT), repository for Publicly Available Clinical BERT Embeddings
 ![](https://img.shields.io/github/stars/EmilyAlsentzer/clinicalBERT.svg)
 
+5. [THU/OAG-BERT](https://github.com/thudm/oag-bert), 2021, An academic BERT enhanced with massive entity knowledge from Open Academic Graph. https://arxiv.org/abs/2103.02410
+![]![](https://img.shields.io/github/stars/THUDM/OAG-BERT.svg)
+
 
 ## BERT Deploy Tricks:
 
